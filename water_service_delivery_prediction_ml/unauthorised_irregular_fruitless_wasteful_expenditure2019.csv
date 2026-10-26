@@ -1,0 +1,640 @@
+financial_year_end.year,item.label,item.code,demarcation.label,demarcation.code,amount.sum
+2019,Fruitless and Wasteful Expenditure,fruitless,Buffalo City,BUF,12378750
+2019,Irregular Expenditure,irregular,Buffalo City,BUF,132542939
+2019,Unauthorised Expenditure,unauthorised,Buffalo City,BUF,42977417
+2019,Fruitless and Wasteful Expenditure,fruitless,Cape Town,CPT,19802000
+2019,Irregular Expenditure,irregular,Cape Town,CPT,950370000
+2019,Unauthorised Expenditure,unauthorised,Cape Town,CPT,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Dr Beyers Naude,EC101,7813364
+2019,Irregular Expenditure,irregular,Dr Beyers Naude,EC101,44394130
+2019,Unauthorised Expenditure,unauthorised,Dr Beyers Naude,EC101,102035535
+2019,Fruitless and Wasteful Expenditure,fruitless,Blue Crane Route,EC102,10684
+2019,Irregular Expenditure,irregular,Blue Crane Route,EC102,18904481
+2019,Unauthorised Expenditure,unauthorised,Blue Crane Route,EC102,7173518
+2019,Fruitless and Wasteful Expenditure,fruitless,Makana,EC104,12788532
+2019,Irregular Expenditure,irregular,Makana,EC104,57481023
+2019,Unauthorised Expenditure,unauthorised,Makana,EC104,84304323
+2019,Fruitless and Wasteful Expenditure,fruitless,Ndlambe,EC105,10662134
+2019,Irregular Expenditure,irregular,Ndlambe,EC105,122705267
+2019,Unauthorised Expenditure,unauthorised,Ndlambe,EC105,58833132
+2019,Fruitless and Wasteful Expenditure,fruitless,Sundays River Valley,EC106,798889
+2019,Irregular Expenditure,irregular,Sundays River Valley,EC106,65432659
+2019,Unauthorised Expenditure,unauthorised,Sundays River Valley,EC106,1847347
+2019,Fruitless and Wasteful Expenditure,fruitless,Kouga,EC108,53650
+2019,Irregular Expenditure,irregular,Kouga,EC108,7660307
+2019,Unauthorised Expenditure,unauthorised,Kouga,EC108,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Kou-Kamma,EC109,289537
+2019,Irregular Expenditure,irregular,Kou-Kamma,EC109,7652661
+2019,Unauthorised Expenditure,unauthorised,Kou-Kamma,EC109,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Mbhashe,EC121,184028
+2019,Irregular Expenditure,irregular,Mbhashe,EC121,90622833
+2019,Unauthorised Expenditure,unauthorised,Mbhashe,EC121,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Mnquma,EC122,1547948
+2019,Irregular Expenditure,irregular,Mnquma,EC122,32112806
+2019,Unauthorised Expenditure,unauthorised,Mnquma,EC122,415282017
+2019,Fruitless and Wasteful Expenditure,fruitless,Great Kei,EC123,1762537
+2019,Irregular Expenditure,irregular,Great Kei,EC123,77000
+2019,Unauthorised Expenditure,unauthorised,Great Kei,EC123,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Amahlathi,EC124,793025
+2019,Irregular Expenditure,irregular,Amahlathi,EC124,13134855
+2019,Unauthorised Expenditure,unauthorised,Amahlathi,EC124,81283113
+2019,Fruitless and Wasteful Expenditure,fruitless,Ngqushwa,EC126,102429
+2019,Irregular Expenditure,irregular,Ngqushwa,EC126,23369342
+2019,Unauthorised Expenditure,unauthorised,Ngqushwa,EC126,6954810
+2019,Fruitless and Wasteful Expenditure,fruitless,Raymond Mhlaba,EC129,16020834
+2019,Irregular Expenditure,irregular,Raymond Mhlaba,EC129,714737
+2019,Unauthorised Expenditure,unauthorised,Raymond Mhlaba,EC129,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Inxuba Yethemba,EC131,13552079
+2019,Irregular Expenditure,irregular,Inxuba Yethemba,EC131,70101912
+2019,Unauthorised Expenditure,unauthorised,Inxuba Yethemba,EC131,76789145
+2019,Fruitless and Wasteful Expenditure,fruitless,Vuyisile Mini,EC135,320813
+2019,Irregular Expenditure,irregular,Vuyisile Mini,EC135,25609811
+2019,Unauthorised Expenditure,unauthorised,Vuyisile Mini,EC135,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Emalahleni (EC),EC136,9464822
+2019,Irregular Expenditure,irregular,Emalahleni (EC),EC136,5496970
+2019,Unauthorised Expenditure,unauthorised,Emalahleni (EC),EC136,20728093
+2019,Fruitless and Wasteful Expenditure,fruitless,Dr. A.B. Xuma,EC137,119600
+2019,Irregular Expenditure,irregular,Dr. A.B. Xuma,EC137,24631368
+2019,Unauthorised Expenditure,unauthorised,Dr. A.B. Xuma,EC137,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Sakhisizwe,EC138,1535956
+2019,Irregular Expenditure,irregular,Sakhisizwe,EC138,2269677
+2019,Unauthorised Expenditure,unauthorised,Sakhisizwe,EC138,10250907
+2019,Fruitless and Wasteful Expenditure,fruitless,Enoch Mgijima,EC139,6288407
+2019,Irregular Expenditure,irregular,Enoch Mgijima,EC139,39882355
+2019,Unauthorised Expenditure,unauthorised,Enoch Mgijima,EC139,141878474
+2019,Fruitless and Wasteful Expenditure,fruitless,Elundini,EC141,0
+2019,Irregular Expenditure,irregular,Elundini,EC141,50575910
+2019,Unauthorised Expenditure,unauthorised,Elundini,EC141,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Senqu,EC142,74326
+2019,Irregular Expenditure,irregular,Senqu,EC142,14235461
+2019,Unauthorised Expenditure,unauthorised,Senqu,EC142,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Walter Sisulu,EC145,23252488
+2019,Irregular Expenditure,irregular,Walter Sisulu,EC145,19384435
+2019,Unauthorised Expenditure,unauthorised,Walter Sisulu,EC145,78391289
+2019,Fruitless and Wasteful Expenditure,fruitless,Ngquza Hills,EC153,0
+2019,Irregular Expenditure,irregular,Ngquza Hills,EC153,7287436
+2019,Unauthorised Expenditure,unauthorised,Ngquza Hills,EC153,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Port St Johns,EC154,880946
+2019,Irregular Expenditure,irregular,Port St Johns,EC154,6100688
+2019,Unauthorised Expenditure,unauthorised,Port St Johns,EC154,3987958
+2019,Fruitless and Wasteful Expenditure,fruitless,Nyandeni,EC155,2926
+2019,Irregular Expenditure,irregular,Nyandeni,EC155,62121460
+2019,Unauthorised Expenditure,unauthorised,Nyandeni,EC155,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Kumkani Mhlontlo,EC156,10809
+2019,Irregular Expenditure,irregular,Kumkani Mhlontlo,EC156,14533044
+2019,Unauthorised Expenditure,unauthorised,Kumkani Mhlontlo,EC156,12822451
+2019,Fruitless and Wasteful Expenditure,fruitless,King Sabata Dalindyebo,EC157,12790059
+2019,Irregular Expenditure,irregular,King Sabata Dalindyebo,EC157,58280722
+2019,Unauthorised Expenditure,unauthorised,King Sabata Dalindyebo,EC157,59003430
+2019,Fruitless and Wasteful Expenditure,fruitless,Matatiele,EC441,5345
+2019,Irregular Expenditure,irregular,Matatiele,EC441,7135420
+2019,Unauthorised Expenditure,unauthorised,Matatiele,EC441,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Umzimvubu,EC442,2160825
+2019,Irregular Expenditure,irregular,Umzimvubu,EC442,25922507
+2019,Unauthorised Expenditure,unauthorised,Umzimvubu,EC442,16901217
+2019,Fruitless and Wasteful Expenditure,fruitless,Winnie Madikizela-Mandela,EC443,65519
+2019,Irregular Expenditure,irregular,Winnie Madikizela-Mandela,EC443,22177720
+2019,Unauthorised Expenditure,unauthorised,Winnie Madikizela-Mandela,EC443,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Ntabankulu,EC444,677586
+2019,Irregular Expenditure,irregular,Ntabankulu,EC444,10475717
+2019,Unauthorised Expenditure,unauthorised,Ntabankulu,EC444,1034790
+2019,Fruitless and Wasteful Expenditure,fruitless,City of Ekurhuleni,EKU,0
+2019,Irregular Expenditure,irregular,City of Ekurhuleni,EKU,413006296
+2019,Unauthorised Expenditure,unauthorised,City of Ekurhuleni,EKU,0
+2019,Fruitless and Wasteful Expenditure,fruitless,eThekwini,ETH,4064000
+2019,Irregular Expenditure,irregular,eThekwini,ETH,2341357000
+2019,Unauthorised Expenditure,unauthorised,eThekwini,ETH,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Letsemeng,FS161,2046204
+2019,Irregular Expenditure,irregular,Letsemeng,FS161,27592472
+2019,Unauthorised Expenditure,unauthorised,Letsemeng,FS161,119091292
+2019,Fruitless and Wasteful Expenditure,fruitless,Kopanong,FS162,60497109
+2019,Irregular Expenditure,irregular,Kopanong,FS162,29488979
+2019,Unauthorised Expenditure,unauthorised,Kopanong,FS162,73179676
+2019,Fruitless and Wasteful Expenditure,fruitless,Mohokare,FS163,9321508
+2019,Irregular Expenditure,irregular,Mohokare,FS163,6053543
+2019,Unauthorised Expenditure,unauthorised,Mohokare,FS163,56579310
+2019,Fruitless and Wasteful Expenditure,fruitless,Masilonyana,FS181,566934
+2019,Irregular Expenditure,irregular,Masilonyana,FS181,1646923
+2019,Unauthorised Expenditure,unauthorised,Masilonyana,FS181,13645259
+2019,Fruitless and Wasteful Expenditure,fruitless,Tokologo,FS182,6817538
+2019,Irregular Expenditure,irregular,Tokologo,FS182,26117188
+2019,Unauthorised Expenditure,unauthorised,Tokologo,FS182,166163385
+2019,Fruitless and Wasteful Expenditure,fruitless,Tswelopele,FS183,2290006
+2019,Irregular Expenditure,irregular,Tswelopele,FS183,55673449
+2019,Unauthorised Expenditure,unauthorised,Tswelopele,FS183,4049823
+2019,Fruitless and Wasteful Expenditure,fruitless,Matjhabeng,FS184,281881146
+2019,Irregular Expenditure,irregular,Matjhabeng,FS184,307018306
+2019,Unauthorised Expenditure,unauthorised,Matjhabeng,FS184,1538965912
+2019,Fruitless and Wasteful Expenditure,fruitless,Nala,FS185,17491337
+2019,Irregular Expenditure,irregular,Nala,FS185,28738022
+2019,Unauthorised Expenditure,unauthorised,Nala,FS185,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Setsoto,FS191,2979591
+2019,Irregular Expenditure,irregular,Setsoto,FS191,76934133
+2019,Unauthorised Expenditure,unauthorised,Setsoto,FS191,616848443
+2019,Fruitless and Wasteful Expenditure,fruitless,Dihlabeng,FS192,12611666
+2019,Irregular Expenditure,irregular,Dihlabeng,FS192,53694085
+2019,Unauthorised Expenditure,unauthorised,Dihlabeng,FS192,241087377
+2019,Fruitless and Wasteful Expenditure,fruitless,Nketoana,FS193,26501996
+2019,Irregular Expenditure,irregular,Nketoana,FS193,3026557
+2019,Unauthorised Expenditure,unauthorised,Nketoana,FS193,189327359
+2019,Fruitless and Wasteful Expenditure,fruitless,Maluti-a-Phofung,FS194,476590031
+2019,Irregular Expenditure,irregular,Maluti-a-Phofung,FS194,316008746
+2019,Unauthorised Expenditure,unauthorised,Maluti-a-Phofung,FS194,134349606
+2019,Fruitless and Wasteful Expenditure,fruitless,Phumelela,FS195,2762402
+2019,Irregular Expenditure,irregular,Phumelela,FS195,13578196
+2019,Unauthorised Expenditure,unauthorised,Phumelela,FS195,86641066
+2019,Fruitless and Wasteful Expenditure,fruitless,Mantsopa,FS196,20198733
+2019,Irregular Expenditure,irregular,Mantsopa,FS196,1206100
+2019,Unauthorised Expenditure,unauthorised,Mantsopa,FS196,114729650
+2019,Fruitless and Wasteful Expenditure,fruitless,Moqhaka,FS201,11914659
+2019,Irregular Expenditure,irregular,Moqhaka,FS201,53911314
+2019,Unauthorised Expenditure,unauthorised,Moqhaka,FS201,112487751
+2019,Fruitless and Wasteful Expenditure,fruitless,Ngwathe,FS203,113530428
+2019,Irregular Expenditure,irregular,Ngwathe,FS203,138263346
+2019,Unauthorised Expenditure,unauthorised,Ngwathe,FS203,169315082
+2019,Fruitless and Wasteful Expenditure,fruitless,Metsimaholo,FS204,22372735
+2019,Irregular Expenditure,irregular,Metsimaholo,FS204,97488738
+2019,Unauthorised Expenditure,unauthorised,Metsimaholo,FS204,77564428
+2019,Fruitless and Wasteful Expenditure,fruitless,Mafube,FS205,52536295
+2019,Irregular Expenditure,irregular,Mafube,FS205,77622621
+2019,Unauthorised Expenditure,unauthorised,Mafube,FS205,177879554
+2019,Fruitless and Wasteful Expenditure,fruitless,Emfuleni,GT421,357567696
+2019,Irregular Expenditure,irregular,Emfuleni,GT421,365726097
+2019,Unauthorised Expenditure,unauthorised,Emfuleni,GT421,1001894687
+2019,Fruitless and Wasteful Expenditure,fruitless,Midvaal,GT422,26000
+2019,Irregular Expenditure,irregular,Midvaal,GT422,1833099
+2019,Unauthorised Expenditure,unauthorised,Midvaal,GT422,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Lesedi,GT423,73597
+2019,Irregular Expenditure,irregular,Lesedi,GT423,60811173
+2019,Unauthorised Expenditure,unauthorised,Lesedi,GT423,3047563
+2019,Fruitless and Wasteful Expenditure,fruitless,Mogale City,GT481,13585302
+2019,Irregular Expenditure,irregular,Mogale City,GT481,221268325
+2019,Unauthorised Expenditure,unauthorised,Mogale City,GT481,166303172
+2019,Fruitless and Wasteful Expenditure,fruitless,Merafong City,GT484,29156284
+2019,Irregular Expenditure,irregular,Merafong City,GT484,12940386
+2019,Unauthorised Expenditure,unauthorised,Merafong City,GT484,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Rand West City,GT485,47821446
+2019,Irregular Expenditure,irregular,Rand West City,GT485,176789449
+2019,Unauthorised Expenditure,unauthorised,Rand West City,GT485,113029071
+2019,Fruitless and Wasteful Expenditure,fruitless,City of Johannesburg,JHB,116977000
+2019,Irregular Expenditure,irregular,City of Johannesburg,JHB,816239000
+2019,Unauthorised Expenditure,unauthorised,City of Johannesburg,JHB,480628000
+2019,Fruitless and Wasteful Expenditure,fruitless,Umdoni,KZN212,527982
+2019,Irregular Expenditure,irregular,Umdoni,KZN212,42697573
+2019,Unauthorised Expenditure,unauthorised,Umdoni,KZN212,42302463
+2019,Fruitless and Wasteful Expenditure,fruitless,Umzumbe,KZN213,0
+2019,Irregular Expenditure,irregular,Umzumbe,KZN213,52724625
+2019,Unauthorised Expenditure,unauthorised,Umzumbe,KZN213,0
+2019,Fruitless and Wasteful Expenditure,fruitless,uMuziwabantu,KZN214,491423
+2019,Irregular Expenditure,irregular,uMuziwabantu,KZN214,67332922
+2019,Unauthorised Expenditure,unauthorised,uMuziwabantu,KZN214,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Ray Nkonyeni,KZN216,147693
+2019,Irregular Expenditure,irregular,Ray Nkonyeni,KZN216,153378657
+2019,Unauthorised Expenditure,unauthorised,Ray Nkonyeni,KZN216,0
+2019,Fruitless and Wasteful Expenditure,fruitless,uMshwathi,KZN221,24431
+2019,Irregular Expenditure,irregular,uMshwathi,KZN221,13951955
+2019,Unauthorised Expenditure,unauthorised,uMshwathi,KZN221,1784913
+2019,Fruitless and Wasteful Expenditure,fruitless,uMngeni,KZN222,7685
+2019,Irregular Expenditure,irregular,uMngeni,KZN222,198638
+2019,Unauthorised Expenditure,unauthorised,uMngeni,KZN222,28372058
+2019,Fruitless and Wasteful Expenditure,fruitless,Mpofana,KZN223,10280318
+2019,Irregular Expenditure,irregular,Mpofana,KZN223,30148250
+2019,Unauthorised Expenditure,unauthorised,Mpofana,KZN223,11035077
+2019,Fruitless and Wasteful Expenditure,fruitless,Impendle,KZN224,14062948
+2019,Irregular Expenditure,irregular,Impendle,KZN224,4228182
+2019,Unauthorised Expenditure,unauthorised,Impendle,KZN224,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Msunduzi,KZN225,4501377
+2019,Irregular Expenditure,irregular,Msunduzi,KZN225,214663367
+2019,Unauthorised Expenditure,unauthorised,Msunduzi,KZN225,170002042
+2019,Fruitless and Wasteful Expenditure,fruitless,Mkhambathini,KZN226,1024951
+2019,Irregular Expenditure,irregular,Mkhambathini,KZN226,2863815
+2019,Unauthorised Expenditure,unauthorised,Mkhambathini,KZN226,3232308
+2019,Fruitless and Wasteful Expenditure,fruitless,Richmond,KZN227,8984223
+2019,Irregular Expenditure,irregular,Richmond,KZN227,36774844
+2019,Unauthorised Expenditure,unauthorised,Richmond,KZN227,7384295
+2019,Fruitless and Wasteful Expenditure,fruitless,Okhahlamba,KZN235,51260
+2019,Irregular Expenditure,irregular,Okhahlamba,KZN235,31407081
+2019,Unauthorised Expenditure,unauthorised,Okhahlamba,KZN235,2442196
+2019,Fruitless and Wasteful Expenditure,fruitless,Inkosi Langalibalele,KZN237,1778974
+2019,Irregular Expenditure,irregular,Inkosi Langalibalele,KZN237,17169459
+2019,Unauthorised Expenditure,unauthorised,Inkosi Langalibalele,KZN237,6285910
+2019,Fruitless and Wasteful Expenditure,fruitless,Alfred Duma,KZN238,6927
+2019,Irregular Expenditure,irregular,Alfred Duma,KZN238,919156
+2019,Unauthorised Expenditure,unauthorised,Alfred Duma,KZN238,21121291
+2019,Fruitless and Wasteful Expenditure,fruitless,Endumeni,KZN241,148332
+2019,Irregular Expenditure,irregular,Endumeni,KZN241,93426028
+2019,Unauthorised Expenditure,unauthorised,Endumeni,KZN241,9549062
+2019,Fruitless and Wasteful Expenditure,fruitless,Nquthu,KZN242,88894
+2019,Irregular Expenditure,irregular,Nquthu,KZN242,106936109
+2019,Unauthorised Expenditure,unauthorised,Nquthu,KZN242,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Msinga,KZN244,5881
+2019,Irregular Expenditure,irregular,Msinga,KZN244,0
+2019,Unauthorised Expenditure,unauthorised,Msinga,KZN244,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Umvoti,KZN245,1871167
+2019,Irregular Expenditure,irregular,Umvoti,KZN245,58177296
+2019,Unauthorised Expenditure,unauthorised,Umvoti,KZN245,16619612
+2019,Fruitless and Wasteful Expenditure,fruitless,Newcastle,KZN252,28638684
+2019,Irregular Expenditure,irregular,Newcastle,KZN252,86886867
+2019,Unauthorised Expenditure,unauthorised,Newcastle,KZN252,47430
+2019,Fruitless and Wasteful Expenditure,fruitless,Emadlangeni,KZN253,2163
+2019,Irregular Expenditure,irregular,Emadlangeni,KZN253,1676087
+2019,Unauthorised Expenditure,unauthorised,Emadlangeni,KZN253,8131901
+2019,Fruitless and Wasteful Expenditure,fruitless,Dannhauser,KZN254,0
+2019,Irregular Expenditure,irregular,Dannhauser,KZN254,0
+2019,Unauthorised Expenditure,unauthorised,Dannhauser,KZN254,0
+2019,Fruitless and Wasteful Expenditure,fruitless,eDumbe,KZN261,663459
+2019,Irregular Expenditure,irregular,eDumbe,KZN261,5794572
+2019,Unauthorised Expenditure,unauthorised,eDumbe,KZN261,11163555
+2019,Fruitless and Wasteful Expenditure,fruitless,uPhongolo,KZN262,183342
+2019,Irregular Expenditure,irregular,uPhongolo,KZN262,3752973
+2019,Unauthorised Expenditure,unauthorised,uPhongolo,KZN262,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Abaqulusi,KZN263,1333961
+2019,Irregular Expenditure,irregular,Abaqulusi,KZN263,15520651
+2019,Unauthorised Expenditure,unauthorised,Abaqulusi,KZN263,70517554
+2019,Fruitless and Wasteful Expenditure,fruitless,Nongoma,KZN265,388833
+2019,Irregular Expenditure,irregular,Nongoma,KZN265,36977622
+2019,Unauthorised Expenditure,unauthorised,Nongoma,KZN265,38206768
+2019,Fruitless and Wasteful Expenditure,fruitless,Ulundi,KZN266,11075299
+2019,Irregular Expenditure,irregular,Ulundi,KZN266,72609536
+2019,Unauthorised Expenditure,unauthorised,Ulundi,KZN266,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Umhlabuyalingana,KZN271,3384
+2019,Irregular Expenditure,irregular,Umhlabuyalingana,KZN271,1781250
+2019,Unauthorised Expenditure,unauthorised,Umhlabuyalingana,KZN271,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Jozini,KZN272,8219797
+2019,Irregular Expenditure,irregular,Jozini,KZN272,55126190
+2019,Unauthorised Expenditure,unauthorised,Jozini,KZN272,14334046
+2019,Fruitless and Wasteful Expenditure,fruitless,Mtubatuba,KZN275,715099
+2019,Irregular Expenditure,irregular,Mtubatuba,KZN275,15548107
+2019,Unauthorised Expenditure,unauthorised,Mtubatuba,KZN275,31993948
+2019,Fruitless and Wasteful Expenditure,fruitless,Hlabisa Big Five,KZN276,383510
+2019,Irregular Expenditure,irregular,Hlabisa Big Five,KZN276,13127248
+2019,Unauthorised Expenditure,unauthorised,Hlabisa Big Five,KZN276,51593213
+2019,Fruitless and Wasteful Expenditure,fruitless,Mfolozi,KZN281,62734
+2019,Irregular Expenditure,irregular,Mfolozi,KZN281,31301374
+2019,Unauthorised Expenditure,unauthorised,Mfolozi,KZN281,0
+2019,Fruitless and Wasteful Expenditure,fruitless,uMhlathuze,KZN282,0
+2019,Irregular Expenditure,irregular,uMhlathuze,KZN282,125161354
+2019,Unauthorised Expenditure,unauthorised,uMhlathuze,KZN282,0
+2019,Fruitless and Wasteful Expenditure,fruitless,uMlalazi,KZN284,6920
+2019,Irregular Expenditure,irregular,uMlalazi,KZN284,57738667
+2019,Unauthorised Expenditure,unauthorised,uMlalazi,KZN284,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Mthonjaneni,KZN285,341816
+2019,Irregular Expenditure,irregular,Mthonjaneni,KZN285,23546083
+2019,Unauthorised Expenditure,unauthorised,Mthonjaneni,KZN285,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Nkandla,KZN286,124202
+2019,Irregular Expenditure,irregular,Nkandla,KZN286,4872733
+2019,Unauthorised Expenditure,unauthorised,Nkandla,KZN286,11103547
+2019,Fruitless and Wasteful Expenditure,fruitless,Mandeni,KZN291,66748
+2019,Irregular Expenditure,irregular,Mandeni,KZN291,21773114
+2019,Unauthorised Expenditure,unauthorised,Mandeni,KZN291,28022764
+2019,Fruitless and Wasteful Expenditure,fruitless,KwaDukuza,KZN292,0
+2019,Irregular Expenditure,irregular,KwaDukuza,KZN292,183135170
+2019,Unauthorised Expenditure,unauthorised,KwaDukuza,KZN292,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Ndwedwe,KZN293,6969
+2019,Irregular Expenditure,irregular,Ndwedwe,KZN293,31632862
+2019,Unauthorised Expenditure,unauthorised,Ndwedwe,KZN293,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Maphumulo,KZN294,890685
+2019,Irregular Expenditure,irregular,Maphumulo,KZN294,6719998
+2019,Unauthorised Expenditure,unauthorised,Maphumulo,KZN294,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Greater Kokstad,KZN433,15908
+2019,Irregular Expenditure,irregular,Greater Kokstad,KZN433,225968471
+2019,Unauthorised Expenditure,unauthorised,Greater Kokstad,KZN433,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Johannes Phumani Phungula,KZN434,2395
+2019,Irregular Expenditure,irregular,Johannes Phumani Phungula,KZN434,580000
+2019,Unauthorised Expenditure,unauthorised,Johannes Phumani Phungula,KZN434,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Umzimkhulu,KZN435,0
+2019,Irregular Expenditure,irregular,Umzimkhulu,KZN435,40498586
+2019,Unauthorised Expenditure,unauthorised,Umzimkhulu,KZN435,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Dr Nkosazana Dlamini Zuma,KZN436,328804
+2019,Irregular Expenditure,irregular,Dr Nkosazana Dlamini Zuma,KZN436,9300590
+2019,Unauthorised Expenditure,unauthorised,Dr Nkosazana Dlamini Zuma,KZN436,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Greater Giyani,LIM331,23676
+2019,Irregular Expenditure,irregular,Greater Giyani,LIM331,0
+2019,Unauthorised Expenditure,unauthorised,Greater Giyani,LIM331,30660098
+2019,Fruitless and Wasteful Expenditure,fruitless,Greater Letaba,LIM332,1019720
+2019,Irregular Expenditure,irregular,Greater Letaba,LIM332,46458804
+2019,Unauthorised Expenditure,unauthorised,Greater Letaba,LIM332,75088605
+2019,Fruitless and Wasteful Expenditure,fruitless,Greater Tzaneen,LIM333,9975974
+2019,Irregular Expenditure,irregular,Greater Tzaneen,LIM333,7438134
+2019,Unauthorised Expenditure,unauthorised,Greater Tzaneen,LIM333,83025989
+2019,Fruitless and Wasteful Expenditure,fruitless,Ba-Phalaborwa,LIM334,44631
+2019,Irregular Expenditure,irregular,Ba-Phalaborwa,LIM334,35504537
+2019,Unauthorised Expenditure,unauthorised,Ba-Phalaborwa,LIM334,99659596
+2019,Fruitless and Wasteful Expenditure,fruitless,Maruleng,LIM335,661832
+2019,Irregular Expenditure,irregular,Maruleng,LIM335,17231820
+2019,Unauthorised Expenditure,unauthorised,Maruleng,LIM335,18665116
+2019,Fruitless and Wasteful Expenditure,fruitless,Musina,LIM341,6641456
+2019,Irregular Expenditure,irregular,Musina,LIM341,11539759
+2019,Unauthorised Expenditure,unauthorised,Musina,LIM341,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Thulamela,LIM343,6656495
+2019,Irregular Expenditure,irregular,Thulamela,LIM343,29781336
+2019,Unauthorised Expenditure,unauthorised,Thulamela,LIM343,24798979
+2019,Fruitless and Wasteful Expenditure,fruitless,Makhado,LIM344,67368
+2019,Irregular Expenditure,irregular,Makhado,LIM344,14204502
+2019,Unauthorised Expenditure,unauthorised,Makhado,LIM344,84406344
+2019,Fruitless and Wasteful Expenditure,fruitless,Collins Chabane,LIM345,1163285
+2019,Irregular Expenditure,irregular,Collins Chabane,LIM345,104918823
+2019,Unauthorised Expenditure,unauthorised,Collins Chabane,LIM345,10368863
+2019,Fruitless and Wasteful Expenditure,fruitless,Blouberg,LIM351,3415
+2019,Irregular Expenditure,irregular,Blouberg,LIM351,25292789
+2019,Unauthorised Expenditure,unauthorised,Blouberg,LIM351,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Molemole,LIM353,40916
+2019,Irregular Expenditure,irregular,Molemole,LIM353,0
+2019,Unauthorised Expenditure,unauthorised,Molemole,LIM353,8835388
+2019,Fruitless and Wasteful Expenditure,fruitless,Polokwane,LIM354,0
+2019,Irregular Expenditure,irregular,Polokwane,LIM354,3512495
+2019,Unauthorised Expenditure,unauthorised,Polokwane,LIM354,437080272
+2019,Fruitless and Wasteful Expenditure,fruitless,Lepelle-Nkumpi,LIM355,44903
+2019,Irregular Expenditure,irregular,Lepelle-Nkumpi,LIM355,76439726
+2019,Unauthorised Expenditure,unauthorised,Lepelle-Nkumpi,LIM355,1105103
+2019,Fruitless and Wasteful Expenditure,fruitless,Thabazimbi,LIM361,8479630
+2019,Irregular Expenditure,irregular,Thabazimbi,LIM361,39495921
+2019,Unauthorised Expenditure,unauthorised,Thabazimbi,LIM361,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Lephalale,LIM362,943897
+2019,Irregular Expenditure,irregular,Lephalale,LIM362,114854274
+2019,Unauthorised Expenditure,unauthorised,Lephalale,LIM362,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Bela Bela,LIM366,3822678
+2019,Irregular Expenditure,irregular,Bela Bela,LIM366,11126964
+2019,Unauthorised Expenditure,unauthorised,Bela Bela,LIM366,14255228
+2019,Fruitless and Wasteful Expenditure,fruitless,Mogalakwena,LIM367,6860886
+2019,Irregular Expenditure,irregular,Mogalakwena,LIM367,551211993
+2019,Unauthorised Expenditure,unauthorised,Mogalakwena,LIM367,231659382
+2019,Fruitless and Wasteful Expenditure,fruitless,Modimolle-Mookgopong,LIM368,47533002
+2019,Irregular Expenditure,irregular,Modimolle-Mookgopong,LIM368,22250957
+2019,Unauthorised Expenditure,unauthorised,Modimolle-Mookgopong,LIM368,141408216
+2019,Fruitless and Wasteful Expenditure,fruitless,Ephraim Mogale,LIM471,114365
+2019,Irregular Expenditure,irregular,Ephraim Mogale,LIM471,23647926
+2019,Unauthorised Expenditure,unauthorised,Ephraim Mogale,LIM471,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Elias Motsoaledi,LIM472,595640
+2019,Irregular Expenditure,irregular,Elias Motsoaledi,LIM472,49832896
+2019,Unauthorised Expenditure,unauthorised,Elias Motsoaledi,LIM472,35450000
+2019,Fruitless and Wasteful Expenditure,fruitless,Makhuduthamaga,LIM473,103
+2019,Irregular Expenditure,irregular,Makhuduthamaga,LIM473,67928767
+2019,Unauthorised Expenditure,unauthorised,Makhuduthamaga,LIM473,60197372
+2019,Fruitless and Wasteful Expenditure,fruitless,Tubatse Fetakgomo,LIM476,31874531
+2019,Irregular Expenditure,irregular,Tubatse Fetakgomo,LIM476,148977824
+2019,Unauthorised Expenditure,unauthorised,Tubatse Fetakgomo,LIM476,4087039
+2019,Fruitless and Wasteful Expenditure,fruitless,Mangaung,MAN,9537975
+2019,Irregular Expenditure,irregular,Mangaung,MAN,842457694
+2019,Unauthorised Expenditure,unauthorised,Mangaung,MAN,1363962321
+2019,Fruitless and Wasteful Expenditure,fruitless,Albert Luthuli,MP301,1381933
+2019,Irregular Expenditure,irregular,Albert Luthuli,MP301,39431149
+2019,Unauthorised Expenditure,unauthorised,Albert Luthuli,MP301,25430440
+2019,Fruitless and Wasteful Expenditure,fruitless,Msukaligwa,MP302,29591642
+2019,Irregular Expenditure,irregular,Msukaligwa,MP302,108243820
+2019,Unauthorised Expenditure,unauthorised,Msukaligwa,MP302,49326910
+2019,Fruitless and Wasteful Expenditure,fruitless,Mkhondo,MP303,17238719
+2019,Irregular Expenditure,irregular,Mkhondo,MP303,32036822
+2019,Unauthorised Expenditure,unauthorised,Mkhondo,MP303,256242032
+2019,Fruitless and Wasteful Expenditure,fruitless,Pixley Ka Seme (MP),MP304,5556
+2019,Irregular Expenditure,irregular,Pixley Ka Seme (MP),MP304,3724015
+2019,Unauthorised Expenditure,unauthorised,Pixley Ka Seme (MP),MP304,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Lekwa,MP305,120085776
+2019,Irregular Expenditure,irregular,Lekwa,MP305,69656406
+2019,Unauthorised Expenditure,unauthorised,Lekwa,MP305,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Dipaleseng,MP306,4973253
+2019,Irregular Expenditure,irregular,Dipaleseng,MP306,16098442
+2019,Unauthorised Expenditure,unauthorised,Dipaleseng,MP306,14364650
+2019,Fruitless and Wasteful Expenditure,fruitless,Govan Mbeki,MP307,200306516
+2019,Irregular Expenditure,irregular,Govan Mbeki,MP307,333827805
+2019,Unauthorised Expenditure,unauthorised,Govan Mbeki,MP307,897063000
+2019,Fruitless and Wasteful Expenditure,fruitless,Victor Khanye,MP311,22484299
+2019,Irregular Expenditure,irregular,Victor Khanye,MP311,15528536
+2019,Unauthorised Expenditure,unauthorised,Victor Khanye,MP311,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Emalahleni (MP),MP312,400420903
+2019,Irregular Expenditure,irregular,Emalahleni (MP),MP312,88854893
+2019,Unauthorised Expenditure,unauthorised,Emalahleni (MP),MP312,518787643
+2019,Fruitless and Wasteful Expenditure,fruitless,Steve Tshwete,MP313,68982
+2019,Irregular Expenditure,irregular,Steve Tshwete,MP313,22545342
+2019,Unauthorised Expenditure,unauthorised,Steve Tshwete,MP313,28512895
+2019,Fruitless and Wasteful Expenditure,fruitless,Emakhazeni,MP314,5034790
+2019,Irregular Expenditure,irregular,Emakhazeni,MP314,61259916
+2019,Unauthorised Expenditure,unauthorised,Emakhazeni,MP314,3747997
+2019,Fruitless and Wasteful Expenditure,fruitless,Thembisile Hani,MP315,2054808
+2019,Irregular Expenditure,irregular,Thembisile Hani,MP315,19072680
+2019,Unauthorised Expenditure,unauthorised,Thembisile Hani,MP315,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Dr J.S. Moroka,MP316,230357
+2019,Irregular Expenditure,irregular,Dr J.S. Moroka,MP316,165982942
+2019,Unauthorised Expenditure,unauthorised,Dr J.S. Moroka,MP316,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Thaba Chweu,MP321,39453187
+2019,Irregular Expenditure,irregular,Thaba Chweu,MP321,41249113
+2019,Unauthorised Expenditure,unauthorised,Thaba Chweu,MP321,55474380
+2019,Fruitless and Wasteful Expenditure,fruitless,Nkomazi,MP324,230982
+2019,Irregular Expenditure,irregular,Nkomazi,MP324,150390823
+2019,Unauthorised Expenditure,unauthorised,Nkomazi,MP324,24068382
+2019,Fruitless and Wasteful Expenditure,fruitless,Bushbuckridge,MP325,24928682
+2019,Irregular Expenditure,irregular,Bushbuckridge,MP325,214830431
+2019,Unauthorised Expenditure,unauthorised,Bushbuckridge,MP325,0
+2019,Fruitless and Wasteful Expenditure,fruitless,City of Mbombela,MP326,38041859
+2019,Irregular Expenditure,irregular,City of Mbombela,MP326,208935017
+2019,Unauthorised Expenditure,unauthorised,City of Mbombela,MP326,267153091
+2019,Fruitless and Wasteful Expenditure,fruitless,Richtersveld,NC061,406815
+2019,Irregular Expenditure,irregular,Richtersveld,NC061,0
+2019,Unauthorised Expenditure,unauthorised,Richtersveld,NC061,8718340
+2019,Fruitless and Wasteful Expenditure,fruitless,Nama Khoi,NC062,10919441
+2019,Irregular Expenditure,irregular,Nama Khoi,NC062,3593697
+2019,Unauthorised Expenditure,unauthorised,Nama Khoi,NC062,41154422
+2019,Fruitless and Wasteful Expenditure,fruitless,Kamiesberg,NC064,2204876
+2019,Irregular Expenditure,irregular,Kamiesberg,NC064,18405527
+2019,Unauthorised Expenditure,unauthorised,Kamiesberg,NC064,29029602
+2019,Fruitless and Wasteful Expenditure,fruitless,Hantam,NC065,1062138
+2019,Irregular Expenditure,irregular,Hantam,NC065,68885392
+2019,Unauthorised Expenditure,unauthorised,Hantam,NC065,11430376
+2019,Fruitless and Wasteful Expenditure,fruitless,Karoo Hoogland,NC066,5600
+2019,Irregular Expenditure,irregular,Karoo Hoogland,NC066,346597
+2019,Unauthorised Expenditure,unauthorised,Karoo Hoogland,NC066,12396096
+2019,Fruitless and Wasteful Expenditure,fruitless,Khai-Ma,NC067,1482055
+2019,Irregular Expenditure,irregular,Khai-Ma,NC067,5813772
+2019,Unauthorised Expenditure,unauthorised,Khai-Ma,NC067,2806682
+2019,Fruitless and Wasteful Expenditure,fruitless,Ubuntu,NC071,7980204
+2019,Irregular Expenditure,irregular,Ubuntu,NC071,6192898
+2019,Unauthorised Expenditure,unauthorised,Ubuntu,NC071,29734456
+2019,Fruitless and Wasteful Expenditure,fruitless,Umsobomvu,NC072,0
+2019,Irregular Expenditure,irregular,Umsobomvu,NC072,7964308
+2019,Unauthorised Expenditure,unauthorised,Umsobomvu,NC072,6979433
+2019,Fruitless and Wasteful Expenditure,fruitless,Emthanjeni,NC073,4956980
+2019,Irregular Expenditure,irregular,Emthanjeni,NC073,27140394
+2019,Unauthorised Expenditure,unauthorised,Emthanjeni,NC073,53535579
+2019,Fruitless and Wasteful Expenditure,fruitless,Kareeberg,NC074,701492
+2019,Irregular Expenditure,irregular,Kareeberg,NC074,0
+2019,Unauthorised Expenditure,unauthorised,Kareeberg,NC074,136466
+2019,Fruitless and Wasteful Expenditure,fruitless,Renosterberg,NC075,37270230
+2019,Irregular Expenditure,irregular,Renosterberg,NC075,0
+2019,Unauthorised Expenditure,unauthorised,Renosterberg,NC075,15695147
+2019,Fruitless and Wasteful Expenditure,fruitless,Thembelihle,NC076,7481598
+2019,Irregular Expenditure,irregular,Thembelihle,NC076,15019986
+2019,Unauthorised Expenditure,unauthorised,Thembelihle,NC076,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Siyathemba,NC077,7841570
+2019,Irregular Expenditure,irregular,Siyathemba,NC077,15870560
+2019,Unauthorised Expenditure,unauthorised,Siyathemba,NC077,60719393
+2019,Fruitless and Wasteful Expenditure,fruitless,Siyancuma,NC078,15600118
+2019,Irregular Expenditure,irregular,Siyancuma,NC078,45179811
+2019,Unauthorised Expenditure,unauthorised,Siyancuma,NC078,33084032
+2019,Fruitless and Wasteful Expenditure,fruitless,!Kai! Garib,NC082,25410003
+2019,Irregular Expenditure,irregular,!Kai! Garib,NC082,713237
+2019,Unauthorised Expenditure,unauthorised,!Kai! Garib,NC082,0
+2019,Fruitless and Wasteful Expenditure,fruitless,!Kheis,NC084,453450
+2019,Irregular Expenditure,irregular,!Kheis,NC084,34214035
+2019,Unauthorised Expenditure,unauthorised,!Kheis,NC084,15128506
+2019,Fruitless and Wasteful Expenditure,fruitless,Tsantsabane,NC085,13979952
+2019,Irregular Expenditure,irregular,Tsantsabane,NC085,0
+2019,Unauthorised Expenditure,unauthorised,Tsantsabane,NC085,31371879
+2019,Fruitless and Wasteful Expenditure,fruitless,Kgatelopele,NC086,795287
+2019,Irregular Expenditure,irregular,Kgatelopele,NC086,31689482
+2019,Unauthorised Expenditure,unauthorised,Kgatelopele,NC086,67154247
+2019,Fruitless and Wasteful Expenditure,fruitless,Dawid Kruiper,NC087,7406
+2019,Irregular Expenditure,irregular,Dawid Kruiper,NC087,659217
+2019,Unauthorised Expenditure,unauthorised,Dawid Kruiper,NC087,51055537
+2019,Fruitless and Wasteful Expenditure,fruitless,Sol Plaatje,NC091,0
+2019,Irregular Expenditure,irregular,Sol Plaatje,NC091,40778964
+2019,Unauthorised Expenditure,unauthorised,Sol Plaatje,NC091,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Dikgatlong,NC092,10173713
+2019,Irregular Expenditure,irregular,Dikgatlong,NC092,7220336
+2019,Unauthorised Expenditure,unauthorised,Dikgatlong,NC092,43650107
+2019,Fruitless and Wasteful Expenditure,fruitless,Magareng,NC093,5400199
+2019,Irregular Expenditure,irregular,Magareng,NC093,8462741
+2019,Unauthorised Expenditure,unauthorised,Magareng,NC093,69543240
+2019,Fruitless and Wasteful Expenditure,fruitless,Phokwane,NC094,25565281
+2019,Irregular Expenditure,irregular,Phokwane,NC094,297871603
+2019,Unauthorised Expenditure,unauthorised,Phokwane,NC094,147361450
+2019,Fruitless and Wasteful Expenditure,fruitless,Joe Morolong,NC451,196704
+2019,Irregular Expenditure,irregular,Joe Morolong,NC451,2557315
+2019,Unauthorised Expenditure,unauthorised,Joe Morolong,NC451,4571998
+2019,Fruitless and Wasteful Expenditure,fruitless,Ga-Segonyana,NC452,5911841
+2019,Irregular Expenditure,irregular,Ga-Segonyana,NC452,83024782
+2019,Unauthorised Expenditure,unauthorised,Ga-Segonyana,NC452,180962436
+2019,Fruitless and Wasteful Expenditure,fruitless,Gamagara,NC453,20876210
+2019,Irregular Expenditure,irregular,Gamagara,NC453,34513495
+2019,Unauthorised Expenditure,unauthorised,Gamagara,NC453,25215227
+2019,Fruitless and Wasteful Expenditure,fruitless,Nelson Mandela Bay,NMA,15630389
+2019,Irregular Expenditure,irregular,Nelson Mandela Bay,NMA,4165513322
+2019,Unauthorised Expenditure,unauthorised,Nelson Mandela Bay,NMA,247964322
+2019,Fruitless and Wasteful Expenditure,fruitless,Moretele,NW371,68804
+2019,Irregular Expenditure,irregular,Moretele,NW371,316813645
+2019,Unauthorised Expenditure,unauthorised,Moretele,NW371,80315558
+2019,Fruitless and Wasteful Expenditure,fruitless,Madibeng,NW372,6263234
+2019,Irregular Expenditure,irregular,Madibeng,NW372,443836785
+2019,Unauthorised Expenditure,unauthorised,Madibeng,NW372,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Rustenburg,NW373,793000
+2019,Irregular Expenditure,irregular,Rustenburg,NW373,919774000
+2019,Unauthorised Expenditure,unauthorised,Rustenburg,NW373,1036181000
+2019,Fruitless and Wasteful Expenditure,fruitless,Kgetlengrivier,NW374,8189101
+2019,Irregular Expenditure,irregular,Kgetlengrivier,NW374,38922749
+2019,Unauthorised Expenditure,unauthorised,Kgetlengrivier,NW374,81341675
+2019,Fruitless and Wasteful Expenditure,fruitless,Moses Kotane,NW375,1460119
+2019,Irregular Expenditure,irregular,Moses Kotane,NW375,96070194
+2019,Unauthorised Expenditure,unauthorised,Moses Kotane,NW375,26732928
+2019,Fruitless and Wasteful Expenditure,fruitless,Ratlou,NW381,35702
+2019,Irregular Expenditure,irregular,Ratlou,NW381,11266632
+2019,Unauthorised Expenditure,unauthorised,Ratlou,NW381,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Tswaing,NW382,11211071
+2019,Irregular Expenditure,irregular,Tswaing,NW382,88034310
+2019,Unauthorised Expenditure,unauthorised,Tswaing,NW382,101922948
+2019,Fruitless and Wasteful Expenditure,fruitless,Mafikeng,NW383,4709267
+2019,Irregular Expenditure,irregular,Mafikeng,NW383,166988114
+2019,Unauthorised Expenditure,unauthorised,Mafikeng,NW383,148930626
+2019,Fruitless and Wasteful Expenditure,fruitless,Ditsobotla,NW384,153885674
+2019,Irregular Expenditure,irregular,Ditsobotla,NW384,119928013
+2019,Unauthorised Expenditure,unauthorised,Ditsobotla,NW384,19107145
+2019,Fruitless and Wasteful Expenditure,fruitless,Ramotshere Moiloa,NW385,6975769
+2019,Irregular Expenditure,irregular,Ramotshere Moiloa,NW385,33611702
+2019,Unauthorised Expenditure,unauthorised,Ramotshere Moiloa,NW385,18414190
+2019,Fruitless and Wasteful Expenditure,fruitless,Naledi (NW),NW392,0
+2019,Irregular Expenditure,irregular,Naledi (NW),NW392,6540112
+2019,Unauthorised Expenditure,unauthorised,Naledi (NW),NW392,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Mamusa,NW393,7269018
+2019,Irregular Expenditure,irregular,Mamusa,NW393,14614331
+2019,Unauthorised Expenditure,unauthorised,Mamusa,NW393,2421241
+2019,Fruitless and Wasteful Expenditure,fruitless,Greater Taung,NW394,9785
+2019,Irregular Expenditure,irregular,Greater Taung,NW394,7384301
+2019,Unauthorised Expenditure,unauthorised,Greater Taung,NW394,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Lekwa-Teemane,NW396,9269540
+2019,Irregular Expenditure,irregular,Lekwa-Teemane,NW396,9702726
+2019,Unauthorised Expenditure,unauthorised,Lekwa-Teemane,NW396,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Kagisano-Molopo,NW397,289695
+2019,Irregular Expenditure,irregular,Kagisano-Molopo,NW397,62587767
+2019,Unauthorised Expenditure,unauthorised,Kagisano-Molopo,NW397,58209123
+2019,Fruitless and Wasteful Expenditure,fruitless,City of Matlosana,NW403,68344353
+2019,Irregular Expenditure,irregular,City of Matlosana,NW403,248695550
+2019,Unauthorised Expenditure,unauthorised,City of Matlosana,NW403,223705443
+2019,Fruitless and Wasteful Expenditure,fruitless,Maquassi Hills,NW404,4573689
+2019,Irregular Expenditure,irregular,Maquassi Hills,NW404,73566182
+2019,Unauthorised Expenditure,unauthorised,Maquassi Hills,NW404,60835798
+2019,Fruitless and Wasteful Expenditure,fruitless,J B Marks,NW405,2973826
+2019,Irregular Expenditure,irregular,J B Marks,NW405,680807999
+2019,Unauthorised Expenditure,unauthorised,J B Marks,NW405,8833803
+2019,Fruitless and Wasteful Expenditure,fruitless,City of Tshwane,TSH,103373677
+2019,Irregular Expenditure,irregular,City of Tshwane,TSH,2876710116
+2019,Unauthorised Expenditure,unauthorised,City of Tshwane,TSH,446395773
+2019,Fruitless and Wasteful Expenditure,fruitless,Matzikama,WC011,0
+2019,Irregular Expenditure,irregular,Matzikama,WC011,77450675
+2019,Unauthorised Expenditure,unauthorised,Matzikama,WC011,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Cederberg,WC012,4770
+2019,Irregular Expenditure,irregular,Cederberg,WC012,71382151
+2019,Unauthorised Expenditure,unauthorised,Cederberg,WC012,1461115
+2019,Fruitless and Wasteful Expenditure,fruitless,Bergrivier,WC013,18569
+2019,Irregular Expenditure,irregular,Bergrivier,WC013,15390056
+2019,Unauthorised Expenditure,unauthorised,Bergrivier,WC013,687569
+2019,Fruitless and Wasteful Expenditure,fruitless,Saldanha Bay,WC014,910486
+2019,Irregular Expenditure,irregular,Saldanha Bay,WC014,20829453
+2019,Unauthorised Expenditure,unauthorised,Saldanha Bay,WC014,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Swartland,WC015,4902
+2019,Irregular Expenditure,irregular,Swartland,WC015,9053320
+2019,Unauthorised Expenditure,unauthorised,Swartland,WC015,9666715
+2019,Fruitless and Wasteful Expenditure,fruitless,Witzenberg,WC022,0
+2019,Irregular Expenditure,irregular,Witzenberg,WC022,27674358
+2019,Unauthorised Expenditure,unauthorised,Witzenberg,WC022,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Drakenstein,WC023,0
+2019,Irregular Expenditure,irregular,Drakenstein,WC023,9687909
+2019,Unauthorised Expenditure,unauthorised,Drakenstein,WC023,18724999
+2019,Fruitless and Wasteful Expenditure,fruitless,Stellenbosch,WC024,0
+2019,Irregular Expenditure,irregular,Stellenbosch,WC024,52956227
+2019,Unauthorised Expenditure,unauthorised,Stellenbosch,WC024,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Breede Valley,WC025,0
+2019,Irregular Expenditure,irregular,Breede Valley,WC025,0
+2019,Unauthorised Expenditure,unauthorised,Breede Valley,WC025,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Langeberg,WC026,99820
+2019,Irregular Expenditure,irregular,Langeberg,WC026,11282823
+2019,Unauthorised Expenditure,unauthorised,Langeberg,WC026,10055780
+2019,Fruitless and Wasteful Expenditure,fruitless,Theewaterskloof,WC031,0
+2019,Irregular Expenditure,irregular,Theewaterskloof,WC031,101285777
+2019,Unauthorised Expenditure,unauthorised,Theewaterskloof,WC031,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Overstrand,WC032,14364
+2019,Irregular Expenditure,irregular,Overstrand,WC032,4122848
+2019,Unauthorised Expenditure,unauthorised,Overstrand,WC032,24396571
+2019,Fruitless and Wasteful Expenditure,fruitless,Cape Agulhas,WC033,38000
+2019,Irregular Expenditure,irregular,Cape Agulhas,WC033,5980657
+2019,Unauthorised Expenditure,unauthorised,Cape Agulhas,WC033,3145970
+2019,Fruitless and Wasteful Expenditure,fruitless,Swellendam,WC034,0
+2019,Irregular Expenditure,irregular,Swellendam,WC034,35619441
+2019,Unauthorised Expenditure,unauthorised,Swellendam,WC034,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Kannaland,WC041,1570519
+2019,Irregular Expenditure,irregular,Kannaland,WC041,12447097
+2019,Unauthorised Expenditure,unauthorised,Kannaland,WC041,4123020
+2019,Fruitless and Wasteful Expenditure,fruitless,Hessequa,WC042,24156
+2019,Irregular Expenditure,irregular,Hessequa,WC042,5858909
+2019,Unauthorised Expenditure,unauthorised,Hessequa,WC042,3007245
+2019,Fruitless and Wasteful Expenditure,fruitless,Mossel Bay,WC043,223702
+2019,Irregular Expenditure,irregular,Mossel Bay,WC043,21474686
+2019,Unauthorised Expenditure,unauthorised,Mossel Bay,WC043,11936516
+2019,Fruitless and Wasteful Expenditure,fruitless,George,WC044,0
+2019,Irregular Expenditure,irregular,George,WC044,620892022
+2019,Unauthorised Expenditure,unauthorised,George,WC044,55024933
+2019,Fruitless and Wasteful Expenditure,fruitless,Oudtshoorn,WC045,1139352
+2019,Irregular Expenditure,irregular,Oudtshoorn,WC045,170064975
+2019,Unauthorised Expenditure,unauthorised,Oudtshoorn,WC045,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Bitou,WC047,645683
+2019,Irregular Expenditure,irregular,Bitou,WC047,48337016
+2019,Unauthorised Expenditure,unauthorised,Bitou,WC047,250059499
+2019,Fruitless and Wasteful Expenditure,fruitless,Knysna,WC048,75269
+2019,Irregular Expenditure,irregular,Knysna,WC048,121759480
+2019,Unauthorised Expenditure,unauthorised,Knysna,WC048,0
+2019,Fruitless and Wasteful Expenditure,fruitless,Laingsburg,WC051,127791
+2019,Irregular Expenditure,irregular,Laingsburg,WC051,23631929
+2019,Unauthorised Expenditure,unauthorised,Laingsburg,WC051,3467120
+2019,Fruitless and Wasteful Expenditure,fruitless,Prince Albert,WC052,28103
+2019,Irregular Expenditure,irregular,Prince Albert,WC052,8415819
+2019,Unauthorised Expenditure,unauthorised,Prince Albert,WC052,683879
+2019,Fruitless and Wasteful Expenditure,fruitless,Beaufort West,WC053,0
+2019,Irregular Expenditure,irregular,Beaufort West,WC053,68472722
+2019,Unauthorised Expenditure,unauthorised,Beaufort West,WC053,1880599

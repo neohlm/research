@@ -1,0 +1,703 @@
+financial_year_end.year,item.label,item.code,demarcation.label,demarcation.code,amount.sum
+2012,Fruitless and Wasteful Expenditure,fruitless,Buffalo City,BUF,164781000
+2012,Irregular Expenditure,irregular,Buffalo City,BUF,934000
+2012,Unauthorised Expenditure,unauthorised,Buffalo City,BUF,163847000
+2012,Fruitless and Wasteful Expenditure,fruitless,Cape Town,CPT,0
+2012,Irregular Expenditure,irregular,Cape Town,CPT,14915000
+2012,Unauthorised Expenditure,unauthorised,Cape Town,CPT,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Dr Beyers Naude,EC101,
+2012,Irregular Expenditure,irregular,Dr Beyers Naude,EC101,
+2012,Unauthorised Expenditure,unauthorised,Dr Beyers Naude,EC101,
+2012,Fruitless and Wasteful Expenditure,fruitless,Blue Crane Route,EC102,12000
+2012,Irregular Expenditure,irregular,Blue Crane Route,EC102,1810000
+2012,Unauthorised Expenditure,unauthorised,Blue Crane Route,EC102,13000000
+2012,Fruitless and Wasteful Expenditure,fruitless,Ikwezi,EC103,150000
+2012,Irregular Expenditure,irregular,Ikwezi,EC103,9513000
+2012,Unauthorised Expenditure,unauthorised,Ikwezi,EC103,8306000
+2012,Fruitless and Wasteful Expenditure,fruitless,Makana,EC104,
+2012,Irregular Expenditure,irregular,Makana,EC104,5800000
+2012,Unauthorised Expenditure,unauthorised,Makana,EC104,
+2012,Fruitless and Wasteful Expenditure,fruitless,Ndlambe,EC105,62000
+2012,Irregular Expenditure,irregular,Ndlambe,EC105,69824000
+2012,Unauthorised Expenditure,unauthorised,Ndlambe,EC105,12026000
+2012,Fruitless and Wasteful Expenditure,fruitless,Sundays River Valley,EC106,299000
+2012,Irregular Expenditure,irregular,Sundays River Valley,EC106,11627000
+2012,Unauthorised Expenditure,unauthorised,Sundays River Valley,EC106,11909000
+2012,Fruitless and Wasteful Expenditure,fruitless,Baviaans,EC107,359000
+2012,Irregular Expenditure,irregular,Baviaans,EC107,695000
+2012,Unauthorised Expenditure,unauthorised,Baviaans,EC107,9913000
+2012,Fruitless and Wasteful Expenditure,fruitless,Kouga,EC108,9301000
+2012,Irregular Expenditure,irregular,Kouga,EC108,15967000
+2012,Unauthorised Expenditure,unauthorised,Kouga,EC108,123198000
+2012,Fruitless and Wasteful Expenditure,fruitless,Kou-Kamma,EC109,1026000
+2012,Irregular Expenditure,irregular,Kou-Kamma,EC109,
+2012,Unauthorised Expenditure,unauthorised,Kou-Kamma,EC109,39154000
+2012,Fruitless and Wasteful Expenditure,fruitless,Mbhashe,EC121,0
+2012,Irregular Expenditure,irregular,Mbhashe,EC121,0
+2012,Unauthorised Expenditure,unauthorised,Mbhashe,EC121,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Mnquma,EC122,1369000
+2012,Irregular Expenditure,irregular,Mnquma,EC122,1158000
+2012,Unauthorised Expenditure,unauthorised,Mnquma,EC122,15383000
+2012,Fruitless and Wasteful Expenditure,fruitless,Great Kei,EC123,113581000
+2012,Irregular Expenditure,irregular,Great Kei,EC123,6020000
+2012,Unauthorised Expenditure,unauthorised,Great Kei,EC123,1459000
+2012,Fruitless and Wasteful Expenditure,fruitless,Amahlathi,EC124,0
+2012,Irregular Expenditure,irregular,Amahlathi,EC124,0
+2012,Unauthorised Expenditure,unauthorised,Amahlathi,EC124,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Ngqushwa,EC126,37477000
+2012,Irregular Expenditure,irregular,Ngqushwa,EC126,39954000
+2012,Unauthorised Expenditure,unauthorised,Ngqushwa,EC126,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Nkonkobe,EC127,15000
+2012,Irregular Expenditure,irregular,Nkonkobe,EC127,1808000
+2012,Unauthorised Expenditure,unauthorised,Nkonkobe,EC127,148000
+2012,Fruitless and Wasteful Expenditure,fruitless,Nxuba,EC128,897000
+2012,Irregular Expenditure,irregular,Nxuba,EC128,117000
+2012,Unauthorised Expenditure,unauthorised,Nxuba,EC128,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Inxuba Yethemba,EC131,0
+2012,Irregular Expenditure,irregular,Inxuba Yethemba,EC131,3500000
+2012,Unauthorised Expenditure,unauthorised,Inxuba Yethemba,EC131,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Tsolwana,EC132,0
+2012,Irregular Expenditure,irregular,Tsolwana,EC132,6600000
+2012,Unauthorised Expenditure,unauthorised,Tsolwana,EC132,8000000
+2012,Fruitless and Wasteful Expenditure,fruitless,Inkwanca,EC133,0
+2012,Irregular Expenditure,irregular,Inkwanca,EC133,5547000
+2012,Unauthorised Expenditure,unauthorised,Inkwanca,EC133,12370000
+2012,Fruitless and Wasteful Expenditure,fruitless,Lukanji,EC134,0
+2012,Irregular Expenditure,irregular,Lukanji,EC134,16000000
+2012,Unauthorised Expenditure,unauthorised,Lukanji,EC134,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Vuyisile Mini,EC135,620000
+2012,Irregular Expenditure,irregular,Vuyisile Mini,EC135,31700000
+2012,Unauthorised Expenditure,unauthorised,Vuyisile Mini,EC135,117200000
+2012,Fruitless and Wasteful Expenditure,fruitless,Emalahleni (EC),EC136,455000
+2012,Irregular Expenditure,irregular,Emalahleni (EC),EC136,5500000
+2012,Unauthorised Expenditure,unauthorised,Emalahleni (EC),EC136,78900000
+2012,Fruitless and Wasteful Expenditure,fruitless,Dr. A.B. Xuma,EC137,3300000
+2012,Irregular Expenditure,irregular,Dr. A.B. Xuma,EC137,48900000
+2012,Unauthorised Expenditure,unauthorised,Dr. A.B. Xuma,EC137,36600000
+2012,Fruitless and Wasteful Expenditure,fruitless,Sakhisizwe,EC138,0
+2012,Irregular Expenditure,irregular,Sakhisizwe,EC138,16100000
+2012,Unauthorised Expenditure,unauthorised,Sakhisizwe,EC138,10400000
+2012,Fruitless and Wasteful Expenditure,fruitless,Elundini,EC141,29000
+2012,Irregular Expenditure,irregular,Elundini,EC141,687000
+2012,Unauthorised Expenditure,unauthorised,Elundini,EC141,33865000
+2012,Fruitless and Wasteful Expenditure,fruitless,Senqu,EC142,743000
+2012,Irregular Expenditure,irregular,Senqu,EC142,1466000
+2012,Unauthorised Expenditure,unauthorised,Senqu,EC142,
+2012,Fruitless and Wasteful Expenditure,fruitless,Maletswai,EC143,238000
+2012,Irregular Expenditure,irregular,Maletswai,EC143,10184000
+2012,Unauthorised Expenditure,unauthorised,Maletswai,EC143,28434000
+2012,Fruitless and Wasteful Expenditure,fruitless,Gariep,EC144,1572000
+2012,Irregular Expenditure,irregular,Gariep,EC144,6840000
+2012,Unauthorised Expenditure,unauthorised,Gariep,EC144,75087000
+2012,Fruitless and Wasteful Expenditure,fruitless,Ngquza Hills,EC153,0
+2012,Irregular Expenditure,irregular,Ngquza Hills,EC153,0
+2012,Unauthorised Expenditure,unauthorised,Ngquza Hills,EC153,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Port St Johns,EC154,0
+2012,Irregular Expenditure,irregular,Port St Johns,EC154,0
+2012,Unauthorised Expenditure,unauthorised,Port St Johns,EC154,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Nyandeni,EC155,925000
+2012,Irregular Expenditure,irregular,Nyandeni,EC155,3438000
+2012,Unauthorised Expenditure,unauthorised,Nyandeni,EC155,18931000
+2012,Fruitless and Wasteful Expenditure,fruitless,Kumkani Mhlontlo,EC156,0
+2012,Irregular Expenditure,irregular,Kumkani Mhlontlo,EC156,0
+2012,Unauthorised Expenditure,unauthorised,Kumkani Mhlontlo,EC156,0
+2012,Fruitless and Wasteful Expenditure,fruitless,King Sabata Dalindyebo,EC157,870000
+2012,Irregular Expenditure,irregular,King Sabata Dalindyebo,EC157,16561000
+2012,Unauthorised Expenditure,unauthorised,King Sabata Dalindyebo,EC157,16068000
+2012,Fruitless and Wasteful Expenditure,fruitless,Matatiele,EC441,167000
+2012,Irregular Expenditure,irregular,Matatiele,EC441,525000
+2012,Unauthorised Expenditure,unauthorised,Matatiele,EC441,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Umzimvubu,EC442,14000
+2012,Irregular Expenditure,irregular,Umzimvubu,EC442,0
+2012,Unauthorised Expenditure,unauthorised,Umzimvubu,EC442,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Winnie Madikizela-Mandela,EC443,0
+2012,Irregular Expenditure,irregular,Winnie Madikizela-Mandela,EC443,4600000
+2012,Unauthorised Expenditure,unauthorised,Winnie Madikizela-Mandela,EC443,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Ntabankulu,EC444,0
+2012,Irregular Expenditure,irregular,Ntabankulu,EC444,5752000
+2012,Unauthorised Expenditure,unauthorised,Ntabankulu,EC444,4291000
+2012,Fruitless and Wasteful Expenditure,fruitless,City of Ekurhuleni,EKU,74638000
+2012,Irregular Expenditure,irregular,City of Ekurhuleni,EKU,229280000
+2012,Unauthorised Expenditure,unauthorised,City of Ekurhuleni,EKU,0
+2012,Fruitless and Wasteful Expenditure,fruitless,eThekwini,ETH,0
+2012,Irregular Expenditure,irregular,eThekwini,ETH,785002000
+2012,Unauthorised Expenditure,unauthorised,eThekwini,ETH,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Letsemeng,FS161,542000
+2012,Irregular Expenditure,irregular,Letsemeng,FS161,9508000
+2012,Unauthorised Expenditure,unauthorised,Letsemeng,FS161,33110000
+2012,Fruitless and Wasteful Expenditure,fruitless,Kopanong,FS162,3328000
+2012,Irregular Expenditure,irregular,Kopanong,FS162,59760000
+2012,Unauthorised Expenditure,unauthorised,Kopanong,FS162,65714000
+2012,Fruitless and Wasteful Expenditure,fruitless,Mohokare,FS163,277000
+2012,Irregular Expenditure,irregular,Mohokare,FS163,21997000
+2012,Unauthorised Expenditure,unauthorised,Mohokare,FS163,43861000
+2012,Fruitless and Wasteful Expenditure,fruitless,Naledi,FS164,
+2012,Irregular Expenditure,irregular,Naledi,FS164,
+2012,Unauthorised Expenditure,unauthorised,Naledi,FS164,29913000
+2012,Fruitless and Wasteful Expenditure,fruitless,Masilonyana,FS181,849000
+2012,Irregular Expenditure,irregular,Masilonyana,FS181,54769000
+2012,Unauthorised Expenditure,unauthorised,Masilonyana,FS181,519744000
+2012,Fruitless and Wasteful Expenditure,fruitless,Tokologo,FS182,596000
+2012,Irregular Expenditure,irregular,Tokologo,FS182,5154000
+2012,Unauthorised Expenditure,unauthorised,Tokologo,FS182,36222000
+2012,Fruitless and Wasteful Expenditure,fruitless,Tswelopele,FS183,2077000
+2012,Irregular Expenditure,irregular,Tswelopele,FS183,1000
+2012,Unauthorised Expenditure,unauthorised,Tswelopele,FS183,1914000
+2012,Fruitless and Wasteful Expenditure,fruitless,Matjhabeng,FS184,76392000
+2012,Irregular Expenditure,irregular,Matjhabeng,FS184,160377000
+2012,Unauthorised Expenditure,unauthorised,Matjhabeng,FS184,1075759000
+2012,Fruitless and Wasteful Expenditure,fruitless,Nala,FS185,0
+2012,Irregular Expenditure,irregular,Nala,FS185,0
+2012,Unauthorised Expenditure,unauthorised,Nala,FS185,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Setsoto,FS191,134000
+2012,Irregular Expenditure,irregular,Setsoto,FS191,15347000
+2012,Unauthorised Expenditure,unauthorised,Setsoto,FS191,3486000
+2012,Fruitless and Wasteful Expenditure,fruitless,Dihlabeng,FS192,9857000
+2012,Irregular Expenditure,irregular,Dihlabeng,FS192,60386000
+2012,Unauthorised Expenditure,unauthorised,Dihlabeng,FS192,
+2012,Fruitless and Wasteful Expenditure,fruitless,Nketoana,FS193,60000
+2012,Irregular Expenditure,irregular,Nketoana,FS193,8628000
+2012,Unauthorised Expenditure,unauthorised,Nketoana,FS193,21430000
+2012,Fruitless and Wasteful Expenditure,fruitless,Maluti-a-Phofung,FS194,4037000
+2012,Irregular Expenditure,irregular,Maluti-a-Phofung,FS194,4244000
+2012,Unauthorised Expenditure,unauthorised,Maluti-a-Phofung,FS194,
+2012,Fruitless and Wasteful Expenditure,fruitless,Phumelela,FS195,504000
+2012,Irregular Expenditure,irregular,Phumelela,FS195,40037000
+2012,Unauthorised Expenditure,unauthorised,Phumelela,FS195,20792000
+2012,Fruitless and Wasteful Expenditure,fruitless,Mantsopa,FS196,292000
+2012,Irregular Expenditure,irregular,Mantsopa,FS196,9853000
+2012,Unauthorised Expenditure,unauthorised,Mantsopa,FS196,3853000
+2012,Fruitless and Wasteful Expenditure,fruitless,Moqhaka,FS201,13022000
+2012,Irregular Expenditure,irregular,Moqhaka,FS201,
+2012,Unauthorised Expenditure,unauthorised,Moqhaka,FS201,52253000
+2012,Fruitless and Wasteful Expenditure,fruitless,Ngwathe,FS203,13284000
+2012,Irregular Expenditure,irregular,Ngwathe,FS203,
+2012,Unauthorised Expenditure,unauthorised,Ngwathe,FS203,
+2012,Fruitless and Wasteful Expenditure,fruitless,Metsimaholo,FS204,1035000
+2012,Irregular Expenditure,irregular,Metsimaholo,FS204,66225000
+2012,Unauthorised Expenditure,unauthorised,Metsimaholo,FS204,6174000
+2012,Fruitless and Wasteful Expenditure,fruitless,Mafube,FS205,7115000
+2012,Irregular Expenditure,irregular,Mafube,FS205,29024000
+2012,Unauthorised Expenditure,unauthorised,Mafube,FS205,
+2012,Fruitless and Wasteful Expenditure,fruitless,Emfuleni,GT421,2366000
+2012,Irregular Expenditure,irregular,Emfuleni,GT421,4118000
+2012,Unauthorised Expenditure,unauthorised,Emfuleni,GT421,
+2012,Fruitless and Wasteful Expenditure,fruitless,Midvaal,GT422,
+2012,Irregular Expenditure,irregular,Midvaal,GT422,
+2012,Unauthorised Expenditure,unauthorised,Midvaal,GT422,
+2012,Fruitless and Wasteful Expenditure,fruitless,Lesedi,GT423,89000
+2012,Irregular Expenditure,irregular,Lesedi,GT423,7457000
+2012,Unauthorised Expenditure,unauthorised,Lesedi,GT423,
+2012,Fruitless and Wasteful Expenditure,fruitless,Mogale City,GT481,4215000
+2012,Irregular Expenditure,irregular,Mogale City,GT481,42249000
+2012,Unauthorised Expenditure,unauthorised,Mogale City,GT481,49377000
+2012,Fruitless and Wasteful Expenditure,fruitless,Randfontein,GT482,4224000
+2012,Irregular Expenditure,irregular,Randfontein,GT482,17540000
+2012,Unauthorised Expenditure,unauthorised,Randfontein,GT482,22141000
+2012,Fruitless and Wasteful Expenditure,fruitless,Westonaria,GT483,
+2012,Irregular Expenditure,irregular,Westonaria,GT483,11928000
+2012,Unauthorised Expenditure,unauthorised,Westonaria,GT483,16442000
+2012,Fruitless and Wasteful Expenditure,fruitless,Merafong City,GT484,2388000
+2012,Irregular Expenditure,irregular,Merafong City,GT484,
+2012,Unauthorised Expenditure,unauthorised,Merafong City,GT484,
+2012,Fruitless and Wasteful Expenditure,fruitless,City of Johannesburg,JHB,8720000
+2012,Irregular Expenditure,irregular,City of Johannesburg,JHB,679706000
+2012,Unauthorised Expenditure,unauthorised,City of Johannesburg,JHB,317949000
+2012,Fruitless and Wasteful Expenditure,fruitless,Vulamehlo,KZN211,0
+2012,Irregular Expenditure,irregular,Vulamehlo,KZN211,10721000
+2012,Unauthorised Expenditure,unauthorised,Vulamehlo,KZN211,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Umdoni,KZN212,1282000
+2012,Irregular Expenditure,irregular,Umdoni,KZN212,1137000
+2012,Unauthorised Expenditure,unauthorised,Umdoni,KZN212,9582000
+2012,Fruitless and Wasteful Expenditure,fruitless,Umzumbe,KZN213,15000
+2012,Irregular Expenditure,irregular,Umzumbe,KZN213,7388000
+2012,Unauthorised Expenditure,unauthorised,Umzumbe,KZN213,2379000
+2012,Fruitless and Wasteful Expenditure,fruitless,uMuziwabantu,KZN214,8000
+2012,Irregular Expenditure,irregular,uMuziwabantu,KZN214,3254000
+2012,Unauthorised Expenditure,unauthorised,uMuziwabantu,KZN214,13062000
+2012,Fruitless and Wasteful Expenditure,fruitless,Ezingoleni,KZN215,0
+2012,Irregular Expenditure,irregular,Ezingoleni,KZN215,272000
+2012,Unauthorised Expenditure,unauthorised,Ezingoleni,KZN215,3137000
+2012,Fruitless and Wasteful Expenditure,fruitless,Ray Nkonyeni,KZN216,19000
+2012,Irregular Expenditure,irregular,Ray Nkonyeni,KZN216,7245000
+2012,Unauthorised Expenditure,unauthorised,Ray Nkonyeni,KZN216,50860000
+2012,Fruitless and Wasteful Expenditure,fruitless,uMshwathi,KZN221,
+2012,Irregular Expenditure,irregular,uMshwathi,KZN221,356000
+2012,Unauthorised Expenditure,unauthorised,uMshwathi,KZN221,
+2012,Fruitless and Wasteful Expenditure,fruitless,uMngeni,KZN222,
+2012,Irregular Expenditure,irregular,uMngeni,KZN222,
+2012,Unauthorised Expenditure,unauthorised,uMngeni,KZN222,
+2012,Fruitless and Wasteful Expenditure,fruitless,Mpofana,KZN223,
+2012,Irregular Expenditure,irregular,Mpofana,KZN223,
+2012,Unauthorised Expenditure,unauthorised,Mpofana,KZN223,
+2012,Fruitless and Wasteful Expenditure,fruitless,Impendle,KZN224,65000
+2012,Irregular Expenditure,irregular,Impendle,KZN224,712000
+2012,Unauthorised Expenditure,unauthorised,Impendle,KZN224,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Msunduzi,KZN225,102000
+2012,Irregular Expenditure,irregular,Msunduzi,KZN225,3159000
+2012,Unauthorised Expenditure,unauthorised,Msunduzi,KZN225,27164000
+2012,Fruitless and Wasteful Expenditure,fruitless,Mkhambathini,KZN226,0
+2012,Irregular Expenditure,irregular,Mkhambathini,KZN226,781000
+2012,Unauthorised Expenditure,unauthorised,Mkhambathini,KZN226,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Richmond,KZN227,19000
+2012,Irregular Expenditure,irregular,Richmond,KZN227,0
+2012,Unauthorised Expenditure,unauthorised,Richmond,KZN227,15000
+2012,Fruitless and Wasteful Expenditure,fruitless,Emnambithi/Ladysmith,KZN232,118000
+2012,Irregular Expenditure,irregular,Emnambithi/Ladysmith,KZN232,11889000
+2012,Unauthorised Expenditure,unauthorised,Emnambithi/Ladysmith,KZN232,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Indaka,KZN233,3549000
+2012,Irregular Expenditure,irregular,Indaka,KZN233,38000
+2012,Unauthorised Expenditure,unauthorised,Indaka,KZN233,5875000
+2012,Fruitless and Wasteful Expenditure,fruitless,Umtshezi,KZN234,
+2012,Irregular Expenditure,irregular,Umtshezi,KZN234,
+2012,Unauthorised Expenditure,unauthorised,Umtshezi,KZN234,
+2012,Fruitless and Wasteful Expenditure,fruitless,Okhahlamba,KZN235,30000
+2012,Irregular Expenditure,irregular,Okhahlamba,KZN235,19663000
+2012,Unauthorised Expenditure,unauthorised,Okhahlamba,KZN235,371000
+2012,Fruitless and Wasteful Expenditure,fruitless,Imbabazane,KZN236,9000
+2012,Irregular Expenditure,irregular,Imbabazane,KZN236,0
+2012,Unauthorised Expenditure,unauthorised,Imbabazane,KZN236,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Endumeni,KZN241,0
+2012,Irregular Expenditure,irregular,Endumeni,KZN241,341000
+2012,Unauthorised Expenditure,unauthorised,Endumeni,KZN241,7307000
+2012,Fruitless and Wasteful Expenditure,fruitless,Nquthu,KZN242,30000
+2012,Irregular Expenditure,irregular,Nquthu,KZN242,3101000
+2012,Unauthorised Expenditure,unauthorised,Nquthu,KZN242,377000
+2012,Fruitless and Wasteful Expenditure,fruitless,Msinga,KZN244,0
+2012,Irregular Expenditure,irregular,Msinga,KZN244,50000
+2012,Unauthorised Expenditure,unauthorised,Msinga,KZN244,8489000
+2012,Fruitless and Wasteful Expenditure,fruitless,Umvoti,KZN245,
+2012,Irregular Expenditure,irregular,Umvoti,KZN245,
+2012,Unauthorised Expenditure,unauthorised,Umvoti,KZN245,
+2012,Fruitless and Wasteful Expenditure,fruitless,Newcastle,KZN252,1216000
+2012,Irregular Expenditure,irregular,Newcastle,KZN252,14690000
+2012,Unauthorised Expenditure,unauthorised,Newcastle,KZN252,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Emadlangeni,KZN253,62000
+2012,Irregular Expenditure,irregular,Emadlangeni,KZN253,0
+2012,Unauthorised Expenditure,unauthorised,Emadlangeni,KZN253,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Dannhauser,KZN254,
+2012,Irregular Expenditure,irregular,Dannhauser,KZN254,
+2012,Unauthorised Expenditure,unauthorised,Dannhauser,KZN254,
+2012,Fruitless and Wasteful Expenditure,fruitless,eDumbe,KZN261,220000
+2012,Irregular Expenditure,irregular,eDumbe,KZN261,44831000
+2012,Unauthorised Expenditure,unauthorised,eDumbe,KZN261,17972000
+2012,Fruitless and Wasteful Expenditure,fruitless,uPhongolo,KZN262,1306000
+2012,Irregular Expenditure,irregular,uPhongolo,KZN262,7694000
+2012,Unauthorised Expenditure,unauthorised,uPhongolo,KZN262,52000
+2012,Fruitless and Wasteful Expenditure,fruitless,Abaqulusi,KZN263,618000
+2012,Irregular Expenditure,irregular,Abaqulusi,KZN263,15004000
+2012,Unauthorised Expenditure,unauthorised,Abaqulusi,KZN263,19173000
+2012,Fruitless and Wasteful Expenditure,fruitless,Nongoma,KZN265,0
+2012,Irregular Expenditure,irregular,Nongoma,KZN265,24883000
+2012,Unauthorised Expenditure,unauthorised,Nongoma,KZN265,12729000
+2012,Fruitless and Wasteful Expenditure,fruitless,Ulundi,KZN266,8759000
+2012,Irregular Expenditure,irregular,Ulundi,KZN266,0
+2012,Unauthorised Expenditure,unauthorised,Ulundi,KZN266,7506000
+2012,Fruitless and Wasteful Expenditure,fruitless,Umhlabuyalingana,KZN271,5815000
+2012,Irregular Expenditure,irregular,Umhlabuyalingana,KZN271,14696000
+2012,Unauthorised Expenditure,unauthorised,Umhlabuyalingana,KZN271,1630000
+2012,Fruitless and Wasteful Expenditure,fruitless,Jozini,KZN272,0
+2012,Irregular Expenditure,irregular,Jozini,KZN272,46541000
+2012,Unauthorised Expenditure,unauthorised,Jozini,KZN272,1285000
+2012,Fruitless and Wasteful Expenditure,fruitless,The Big 5 False Bay,KZN273,110000
+2012,Irregular Expenditure,irregular,The Big 5 False Bay,KZN273,852000
+2012,Unauthorised Expenditure,unauthorised,The Big 5 False Bay,KZN273,5057000
+2012,Fruitless and Wasteful Expenditure,fruitless,Hlabisa,KZN274,266000
+2012,Irregular Expenditure,irregular,Hlabisa,KZN274,18309000
+2012,Unauthorised Expenditure,unauthorised,Hlabisa,KZN274,2524000
+2012,Fruitless and Wasteful Expenditure,fruitless,Mtubatuba,KZN275,487000
+2012,Irregular Expenditure,irregular,Mtubatuba,KZN275,15270000
+2012,Unauthorised Expenditure,unauthorised,Mtubatuba,KZN275,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Mfolozi,KZN281,1891000
+2012,Irregular Expenditure,irregular,Mfolozi,KZN281,0
+2012,Unauthorised Expenditure,unauthorised,Mfolozi,KZN281,4735000
+2012,Fruitless and Wasteful Expenditure,fruitless,uMhlathuze,KZN282,0
+2012,Irregular Expenditure,irregular,uMhlathuze,KZN282,0
+2012,Unauthorised Expenditure,unauthorised,uMhlathuze,KZN282,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Ntambanana,KZN283,0
+2012,Irregular Expenditure,irregular,Ntambanana,KZN283,0
+2012,Unauthorised Expenditure,unauthorised,Ntambanana,KZN283,0
+2012,Fruitless and Wasteful Expenditure,fruitless,uMlalazi,KZN284,251000
+2012,Irregular Expenditure,irregular,uMlalazi,KZN284,468000
+2012,Unauthorised Expenditure,unauthorised,uMlalazi,KZN284,2608000
+2012,Fruitless and Wasteful Expenditure,fruitless,Mthonjaneni,KZN285,0
+2012,Irregular Expenditure,irregular,Mthonjaneni,KZN285,0
+2012,Unauthorised Expenditure,unauthorised,Mthonjaneni,KZN285,1238000
+2012,Fruitless and Wasteful Expenditure,fruitless,Nkandla,KZN286,23000
+2012,Irregular Expenditure,irregular,Nkandla,KZN286,29818000
+2012,Unauthorised Expenditure,unauthorised,Nkandla,KZN286,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Mandeni,KZN291,
+2012,Irregular Expenditure,irregular,Mandeni,KZN291,
+2012,Unauthorised Expenditure,unauthorised,Mandeni,KZN291,
+2012,Fruitless and Wasteful Expenditure,fruitless,KwaDukuza,KZN292,3708000
+2012,Irregular Expenditure,irregular,KwaDukuza,KZN292,21608000
+2012,Unauthorised Expenditure,unauthorised,KwaDukuza,KZN292,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Ndwedwe,KZN293,0
+2012,Irregular Expenditure,irregular,Ndwedwe,KZN293,6345000
+2012,Unauthorised Expenditure,unauthorised,Ndwedwe,KZN293,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Maphumulo,KZN294,13000
+2012,Irregular Expenditure,irregular,Maphumulo,KZN294,14936000
+2012,Unauthorised Expenditure,unauthorised,Maphumulo,KZN294,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Ingwe,KZN431,3000
+2012,Irregular Expenditure,irregular,Ingwe,KZN431,3164000
+2012,Unauthorised Expenditure,unauthorised,Ingwe,KZN431,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Kwa Sani,KZN432,1034000
+2012,Irregular Expenditure,irregular,Kwa Sani,KZN432,7583000
+2012,Unauthorised Expenditure,unauthorised,Kwa Sani,KZN432,8683000
+2012,Fruitless and Wasteful Expenditure,fruitless,Greater Kokstad,KZN433,77000
+2012,Irregular Expenditure,irregular,Greater Kokstad,KZN433,11273000
+2012,Unauthorised Expenditure,unauthorised,Greater Kokstad,KZN433,42465000
+2012,Fruitless and Wasteful Expenditure,fruitless,Johannes Phumani Phungula,KZN434,150000
+2012,Irregular Expenditure,irregular,Johannes Phumani Phungula,KZN434,
+2012,Unauthorised Expenditure,unauthorised,Johannes Phumani Phungula,KZN434,
+2012,Fruitless and Wasteful Expenditure,fruitless,Umzimkhulu,KZN435,0
+2012,Irregular Expenditure,irregular,Umzimkhulu,KZN435,749000
+2012,Unauthorised Expenditure,unauthorised,Umzimkhulu,KZN435,10882000
+2012,Fruitless and Wasteful Expenditure,fruitless,Greater Giyani,LIM331,152000
+2012,Irregular Expenditure,irregular,Greater Giyani,LIM331,4617000
+2012,Unauthorised Expenditure,unauthorised,Greater Giyani,LIM331,
+2012,Fruitless and Wasteful Expenditure,fruitless,Greater Letaba,LIM332,23085000
+2012,Irregular Expenditure,irregular,Greater Letaba,LIM332,36453000
+2012,Unauthorised Expenditure,unauthorised,Greater Letaba,LIM332,
+2012,Fruitless and Wasteful Expenditure,fruitless,Greater Tzaneen,LIM333,169000
+2012,Irregular Expenditure,irregular,Greater Tzaneen,LIM333,79412000
+2012,Unauthorised Expenditure,unauthorised,Greater Tzaneen,LIM333,
+2012,Fruitless and Wasteful Expenditure,fruitless,Ba-Phalaborwa,LIM334,28000
+2012,Irregular Expenditure,irregular,Ba-Phalaborwa,LIM334,79412000
+2012,Unauthorised Expenditure,unauthorised,Ba-Phalaborwa,LIM334,
+2012,Fruitless and Wasteful Expenditure,fruitless,Maruleng,LIM335,
+2012,Irregular Expenditure,irregular,Maruleng,LIM335,28416000
+2012,Unauthorised Expenditure,unauthorised,Maruleng,LIM335,
+2012,Fruitless and Wasteful Expenditure,fruitless,Musina,LIM341,
+2012,Irregular Expenditure,irregular,Musina,LIM341,61867000
+2012,Unauthorised Expenditure,unauthorised,Musina,LIM341,3053000
+2012,Fruitless and Wasteful Expenditure,fruitless,Mutale,LIM342,271000
+2012,Irregular Expenditure,irregular,Mutale,LIM342,1930000
+2012,Unauthorised Expenditure,unauthorised,Mutale,LIM342,10638000
+2012,Fruitless and Wasteful Expenditure,fruitless,Thulamela,LIM343,676000
+2012,Irregular Expenditure,irregular,Thulamela,LIM343,28042000
+2012,Unauthorised Expenditure,unauthorised,Thulamela,LIM343,
+2012,Fruitless and Wasteful Expenditure,fruitless,Makhado,LIM344,1100000
+2012,Irregular Expenditure,irregular,Makhado,LIM344,821000
+2012,Unauthorised Expenditure,unauthorised,Makhado,LIM344,57872000
+2012,Fruitless and Wasteful Expenditure,fruitless,Blouberg,LIM351,119000
+2012,Irregular Expenditure,irregular,Blouberg,LIM351,6846000
+2012,Unauthorised Expenditure,unauthorised,Blouberg,LIM351,8676000
+2012,Fruitless and Wasteful Expenditure,fruitless,Aganang,LIM352,283000
+2012,Irregular Expenditure,irregular,Aganang,LIM352,21029000
+2012,Unauthorised Expenditure,unauthorised,Aganang,LIM352,5228000
+2012,Fruitless and Wasteful Expenditure,fruitless,Molemole,LIM353,
+2012,Irregular Expenditure,irregular,Molemole,LIM353,
+2012,Unauthorised Expenditure,unauthorised,Molemole,LIM353,
+2012,Fruitless and Wasteful Expenditure,fruitless,Polokwane,LIM354,154933000
+2012,Irregular Expenditure,irregular,Polokwane,LIM354,1784000
+2012,Unauthorised Expenditure,unauthorised,Polokwane,LIM354,140440000
+2012,Fruitless and Wasteful Expenditure,fruitless,Lepelle-Nkumpi,LIM355,2678000
+2012,Irregular Expenditure,irregular,Lepelle-Nkumpi,LIM355,42088000
+2012,Unauthorised Expenditure,unauthorised,Lepelle-Nkumpi,LIM355,
+2012,Fruitless and Wasteful Expenditure,fruitless,Thabazimbi,LIM361,1019000
+2012,Irregular Expenditure,irregular,Thabazimbi,LIM361,33209000
+2012,Unauthorised Expenditure,unauthorised,Thabazimbi,LIM361,125209000
+2012,Fruitless and Wasteful Expenditure,fruitless,Lephalale,LIM362,167000
+2012,Irregular Expenditure,irregular,Lephalale,LIM362,14564000
+2012,Unauthorised Expenditure,unauthorised,Lephalale,LIM362,
+2012,Fruitless and Wasteful Expenditure,fruitless,Mookgopong,LIM364,164000
+2012,Irregular Expenditure,irregular,Mookgopong,LIM364,5200000
+2012,Unauthorised Expenditure,unauthorised,Mookgopong,LIM364,4036000
+2012,Fruitless and Wasteful Expenditure,fruitless,Modimolle,LIM365,557000
+2012,Irregular Expenditure,irregular,Modimolle,LIM365,5552000
+2012,Unauthorised Expenditure,unauthorised,Modimolle,LIM365,16370000
+2012,Fruitless and Wasteful Expenditure,fruitless,Bela Bela,LIM366,222000
+2012,Irregular Expenditure,irregular,Bela Bela,LIM366,
+2012,Unauthorised Expenditure,unauthorised,Bela Bela,LIM366,25067000
+2012,Fruitless and Wasteful Expenditure,fruitless,Mogalakwena,LIM367,16000
+2012,Irregular Expenditure,irregular,Mogalakwena,LIM367,15142000
+2012,Unauthorised Expenditure,unauthorised,Mogalakwena,LIM367,
+2012,Fruitless and Wasteful Expenditure,fruitless,Ephraim Mogale,LIM471,
+2012,Irregular Expenditure,irregular,Ephraim Mogale,LIM471,61892000
+2012,Unauthorised Expenditure,unauthorised,Ephraim Mogale,LIM471,37491000
+2012,Fruitless and Wasteful Expenditure,fruitless,Elias Motsoaledi,LIM472,49000
+2012,Irregular Expenditure,irregular,Elias Motsoaledi,LIM472,2296000
+2012,Unauthorised Expenditure,unauthorised,Elias Motsoaledi,LIM472,50163000
+2012,Fruitless and Wasteful Expenditure,fruitless,Makhuduthamaga,LIM473,2000
+2012,Irregular Expenditure,irregular,Makhuduthamaga,LIM473,15920000
+2012,Unauthorised Expenditure,unauthorised,Makhuduthamaga,LIM473,904000
+2012,Fruitless and Wasteful Expenditure,fruitless,Fetakgomo,LIM474,6000
+2012,Irregular Expenditure,irregular,Fetakgomo,LIM474,2388000
+2012,Unauthorised Expenditure,unauthorised,Fetakgomo,LIM474,
+2012,Fruitless and Wasteful Expenditure,fruitless,Greater Tubatse,LIM475,48235000
+2012,Irregular Expenditure,irregular,Greater Tubatse,LIM475,29176000
+2012,Unauthorised Expenditure,unauthorised,Greater Tubatse,LIM475,77687000
+2012,Fruitless and Wasteful Expenditure,fruitless,Mangaung,MAN,79715000
+2012,Irregular Expenditure,irregular,Mangaung,MAN,403627000
+2012,Unauthorised Expenditure,unauthorised,Mangaung,MAN,374968000
+2012,Fruitless and Wasteful Expenditure,fruitless,Albert Luthuli,MP301,674000
+2012,Irregular Expenditure,irregular,Albert Luthuli,MP301,63786000
+2012,Unauthorised Expenditure,unauthorised,Albert Luthuli,MP301,953000
+2012,Fruitless and Wasteful Expenditure,fruitless,Msukaligwa,MP302,
+2012,Irregular Expenditure,irregular,Msukaligwa,MP302,
+2012,Unauthorised Expenditure,unauthorised,Msukaligwa,MP302,
+2012,Fruitless and Wasteful Expenditure,fruitless,Mkhondo,MP303,1554000
+2012,Irregular Expenditure,irregular,Mkhondo,MP303,
+2012,Unauthorised Expenditure,unauthorised,Mkhondo,MP303,
+2012,Fruitless and Wasteful Expenditure,fruitless,Pixley Ka Seme (MP),MP304,
+2012,Irregular Expenditure,irregular,Pixley Ka Seme (MP),MP304,2800000
+2012,Unauthorised Expenditure,unauthorised,Pixley Ka Seme (MP),MP304,
+2012,Fruitless and Wasteful Expenditure,fruitless,Lekwa,MP305,8234000
+2012,Irregular Expenditure,irregular,Lekwa,MP305,5964000
+2012,Unauthorised Expenditure,unauthorised,Lekwa,MP305,198486000
+2012,Fruitless and Wasteful Expenditure,fruitless,Dipaleseng,MP306,615000
+2012,Irregular Expenditure,irregular,Dipaleseng,MP306,8583000
+2012,Unauthorised Expenditure,unauthorised,Dipaleseng,MP306,51801000
+2012,Fruitless and Wasteful Expenditure,fruitless,Govan Mbeki,MP307,10986000
+2012,Irregular Expenditure,irregular,Govan Mbeki,MP307,24438000
+2012,Unauthorised Expenditure,unauthorised,Govan Mbeki,MP307,137159000
+2012,Fruitless and Wasteful Expenditure,fruitless,Victor Khanye,MP311,
+2012,Irregular Expenditure,irregular,Victor Khanye,MP311,
+2012,Unauthorised Expenditure,unauthorised,Victor Khanye,MP311,
+2012,Fruitless and Wasteful Expenditure,fruitless,Emalahleni (MP),MP312,1882000
+2012,Irregular Expenditure,irregular,Emalahleni (MP),MP312,22891000
+2012,Unauthorised Expenditure,unauthorised,Emalahleni (MP),MP312,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Steve Tshwete,MP313,250884000
+2012,Irregular Expenditure,irregular,Steve Tshwete,MP313,
+2012,Unauthorised Expenditure,unauthorised,Steve Tshwete,MP313,
+2012,Fruitless and Wasteful Expenditure,fruitless,Emakhazeni,MP314,151000
+2012,Irregular Expenditure,irregular,Emakhazeni,MP314,
+2012,Unauthorised Expenditure,unauthorised,Emakhazeni,MP314,2891000
+2012,Fruitless and Wasteful Expenditure,fruitless,Thembisile Hani,MP315,
+2012,Irregular Expenditure,irregular,Thembisile Hani,MP315,24158000
+2012,Unauthorised Expenditure,unauthorised,Thembisile Hani,MP315,
+2012,Fruitless and Wasteful Expenditure,fruitless,Dr J.S. Moroka,MP316,
+2012,Irregular Expenditure,irregular,Dr J.S. Moroka,MP316,
+2012,Unauthorised Expenditure,unauthorised,Dr J.S. Moroka,MP316,
+2012,Fruitless and Wasteful Expenditure,fruitless,Thaba Chweu,MP321,3671000
+2012,Irregular Expenditure,irregular,Thaba Chweu,MP321,17476000
+2012,Unauthorised Expenditure,unauthorised,Thaba Chweu,MP321,5916000
+2012,Fruitless and Wasteful Expenditure,fruitless,Mbombela,MP322,4352000
+2012,Irregular Expenditure,irregular,Mbombela,MP322,1277000
+2012,Unauthorised Expenditure,unauthorised,Mbombela,MP322,6191000
+2012,Fruitless and Wasteful Expenditure,fruitless,Umjindi,MP323,169000
+2012,Irregular Expenditure,irregular,Umjindi,MP323,
+2012,Unauthorised Expenditure,unauthorised,Umjindi,MP323,
+2012,Fruitless and Wasteful Expenditure,fruitless,Nkomazi,MP324,3069000
+2012,Irregular Expenditure,irregular,Nkomazi,MP324,28665000
+2012,Unauthorised Expenditure,unauthorised,Nkomazi,MP324,100880000
+2012,Fruitless and Wasteful Expenditure,fruitless,Bushbuckridge,MP325,
+2012,Irregular Expenditure,irregular,Bushbuckridge,MP325,480373000
+2012,Unauthorised Expenditure,unauthorised,Bushbuckridge,MP325,233670000
+2012,Fruitless and Wasteful Expenditure,fruitless,Richtersveld,NC061,
+2012,Irregular Expenditure,irregular,Richtersveld,NC061,1510000
+2012,Unauthorised Expenditure,unauthorised,Richtersveld,NC061,479000
+2012,Fruitless and Wasteful Expenditure,fruitless,Nama Khoi,NC062,0
+2012,Irregular Expenditure,irregular,Nama Khoi,NC062,28713000
+2012,Unauthorised Expenditure,unauthorised,Nama Khoi,NC062,24836000
+2012,Fruitless and Wasteful Expenditure,fruitless,Kamiesberg,NC064,172000
+2012,Irregular Expenditure,irregular,Kamiesberg,NC064,2662000
+2012,Unauthorised Expenditure,unauthorised,Kamiesberg,NC064,16739000
+2012,Fruitless and Wasteful Expenditure,fruitless,Hantam,NC065,11000
+2012,Irregular Expenditure,irregular,Hantam,NC065,1722000
+2012,Unauthorised Expenditure,unauthorised,Hantam,NC065,7647000
+2012,Fruitless and Wasteful Expenditure,fruitless,Karoo Hoogland,NC066,
+2012,Irregular Expenditure,irregular,Karoo Hoogland,NC066,
+2012,Unauthorised Expenditure,unauthorised,Karoo Hoogland,NC066,
+2012,Fruitless and Wasteful Expenditure,fruitless,Khai-Ma,NC067,28000
+2012,Irregular Expenditure,irregular,Khai-Ma,NC067,3539000
+2012,Unauthorised Expenditure,unauthorised,Khai-Ma,NC067,5627000
+2012,Fruitless and Wasteful Expenditure,fruitless,Ubuntu,NC071,226000
+2012,Irregular Expenditure,irregular,Ubuntu,NC071,10349000
+2012,Unauthorised Expenditure,unauthorised,Ubuntu,NC071,5819000
+2012,Fruitless and Wasteful Expenditure,fruitless,Umsobomvu,NC072,
+2012,Irregular Expenditure,irregular,Umsobomvu,NC072,4291000
+2012,Unauthorised Expenditure,unauthorised,Umsobomvu,NC072,31736000
+2012,Fruitless and Wasteful Expenditure,fruitless,Emthanjeni,NC073,
+2012,Irregular Expenditure,irregular,Emthanjeni,NC073,16258000
+2012,Unauthorised Expenditure,unauthorised,Emthanjeni,NC073,512000
+2012,Fruitless and Wasteful Expenditure,fruitless,Kareeberg,NC074,
+2012,Irregular Expenditure,irregular,Kareeberg,NC074,1889000
+2012,Unauthorised Expenditure,unauthorised,Kareeberg,NC074,279000
+2012,Fruitless and Wasteful Expenditure,fruitless,Renosterberg,NC075,182000
+2012,Irregular Expenditure,irregular,Renosterberg,NC075,29633000
+2012,Unauthorised Expenditure,unauthorised,Renosterberg,NC075,14930000
+2012,Fruitless and Wasteful Expenditure,fruitless,Thembelihle,NC076,352000
+2012,Irregular Expenditure,irregular,Thembelihle,NC076,31500000
+2012,Unauthorised Expenditure,unauthorised,Thembelihle,NC076,3308000
+2012,Fruitless and Wasteful Expenditure,fruitless,Siyathemba,NC077,3023000
+2012,Irregular Expenditure,irregular,Siyathemba,NC077,13378000
+2012,Unauthorised Expenditure,unauthorised,Siyathemba,NC077,20009000
+2012,Fruitless and Wasteful Expenditure,fruitless,Siyancuma,NC078,120000
+2012,Irregular Expenditure,irregular,Siyancuma,NC078,4189000
+2012,Unauthorised Expenditure,unauthorised,Siyancuma,NC078,11244000
+2012,Fruitless and Wasteful Expenditure,fruitless,Mier,NC081,144000
+2012,Irregular Expenditure,irregular,Mier,NC081,4682000
+2012,Unauthorised Expenditure,unauthorised,Mier,NC081,3073000
+2012,Fruitless and Wasteful Expenditure,fruitless,!Kai! Garib,NC082,62000
+2012,Irregular Expenditure,irregular,!Kai! Garib,NC082,5701000
+2012,Unauthorised Expenditure,unauthorised,!Kai! Garib,NC082,86357000
+2012,Fruitless and Wasteful Expenditure,fruitless,//Khara Hais,NC083,107000
+2012,Irregular Expenditure,irregular,//Khara Hais,NC083,7197000
+2012,Unauthorised Expenditure,unauthorised,//Khara Hais,NC083,123523000
+2012,Fruitless and Wasteful Expenditure,fruitless,!Kheis,NC084,172000
+2012,Irregular Expenditure,irregular,!Kheis,NC084,9851000
+2012,Unauthorised Expenditure,unauthorised,!Kheis,NC084,966000
+2012,Fruitless and Wasteful Expenditure,fruitless,Tsantsabane,NC085,6541000
+2012,Irregular Expenditure,irregular,Tsantsabane,NC085,6632000
+2012,Unauthorised Expenditure,unauthorised,Tsantsabane,NC085,210554000
+2012,Fruitless and Wasteful Expenditure,fruitless,Kgatelopele,NC086,
+2012,Irregular Expenditure,irregular,Kgatelopele,NC086,1318000
+2012,Unauthorised Expenditure,unauthorised,Kgatelopele,NC086,8017000
+2012,Fruitless and Wasteful Expenditure,fruitless,Sol Plaatje,NC091,1138000
+2012,Irregular Expenditure,irregular,Sol Plaatje,NC091,6786000
+2012,Unauthorised Expenditure,unauthorised,Sol Plaatje,NC091,
+2012,Fruitless and Wasteful Expenditure,fruitless,Dikgatlong,NC092,
+2012,Irregular Expenditure,irregular,Dikgatlong,NC092,
+2012,Unauthorised Expenditure,unauthorised,Dikgatlong,NC092,
+2012,Fruitless and Wasteful Expenditure,fruitless,Magareng,NC093,402000
+2012,Irregular Expenditure,irregular,Magareng,NC093,
+2012,Unauthorised Expenditure,unauthorised,Magareng,NC093,20873000
+2012,Fruitless and Wasteful Expenditure,fruitless,Phokwane,NC094,263000
+2012,Irregular Expenditure,irregular,Phokwane,NC094,8652000
+2012,Unauthorised Expenditure,unauthorised,Phokwane,NC094,41171000
+2012,Fruitless and Wasteful Expenditure,fruitless,Joe Morolong,NC451,
+2012,Irregular Expenditure,irregular,Joe Morolong,NC451,325000
+2012,Unauthorised Expenditure,unauthorised,Joe Morolong,NC451,
+2012,Fruitless and Wasteful Expenditure,fruitless,Ga-Segonyana,NC452,214000
+2012,Irregular Expenditure,irregular,Ga-Segonyana,NC452,60280000
+2012,Unauthorised Expenditure,unauthorised,Ga-Segonyana,NC452,45136000
+2012,Fruitless and Wasteful Expenditure,fruitless,Gamagara,NC453,
+2012,Irregular Expenditure,irregular,Gamagara,NC453,
+2012,Unauthorised Expenditure,unauthorised,Gamagara,NC453,
+2012,Fruitless and Wasteful Expenditure,fruitless,Nelson Mandela Bay,NMA,4570000
+2012,Irregular Expenditure,irregular,Nelson Mandela Bay,NMA,233903000
+2012,Unauthorised Expenditure,unauthorised,Nelson Mandela Bay,NMA,318698000
+2012,Fruitless and Wasteful Expenditure,fruitless,Moretele,NW371,86000
+2012,Irregular Expenditure,irregular,Moretele,NW371,22441000
+2012,Unauthorised Expenditure,unauthorised,Moretele,NW371,
+2012,Fruitless and Wasteful Expenditure,fruitless,Madibeng,NW372,2073000
+2012,Irregular Expenditure,irregular,Madibeng,NW372,14624000
+2012,Unauthorised Expenditure,unauthorised,Madibeng,NW372,18287000
+2012,Fruitless and Wasteful Expenditure,fruitless,Rustenburg,NW373,
+2012,Irregular Expenditure,irregular,Rustenburg,NW373,73467000
+2012,Unauthorised Expenditure,unauthorised,Rustenburg,NW373,449811000
+2012,Fruitless and Wasteful Expenditure,fruitless,Kgetlengrivier,NW374,43000
+2012,Irregular Expenditure,irregular,Kgetlengrivier,NW374,
+2012,Unauthorised Expenditure,unauthorised,Kgetlengrivier,NW374,
+2012,Fruitless and Wasteful Expenditure,fruitless,Moses Kotane,NW375,10283000
+2012,Irregular Expenditure,irregular,Moses Kotane,NW375,185138000
+2012,Unauthorised Expenditure,unauthorised,Moses Kotane,NW375,17287000
+2012,Fruitless and Wasteful Expenditure,fruitless,Ratlou,NW381,
+2012,Irregular Expenditure,irregular,Ratlou,NW381,9933000
+2012,Unauthorised Expenditure,unauthorised,Ratlou,NW381,8107000
+2012,Fruitless and Wasteful Expenditure,fruitless,Tswaing,NW382,467000
+2012,Irregular Expenditure,irregular,Tswaing,NW382,129000
+2012,Unauthorised Expenditure,unauthorised,Tswaing,NW382,11234000
+2012,Fruitless and Wasteful Expenditure,fruitless,Mafikeng,NW383,51000
+2012,Irregular Expenditure,irregular,Mafikeng,NW383,23105000
+2012,Unauthorised Expenditure,unauthorised,Mafikeng,NW383,24352000
+2012,Fruitless and Wasteful Expenditure,fruitless,Ditsobotla,NW384,
+2012,Irregular Expenditure,irregular,Ditsobotla,NW384,
+2012,Unauthorised Expenditure,unauthorised,Ditsobotla,NW384,423000
+2012,Fruitless and Wasteful Expenditure,fruitless,Ramotshere Moiloa,NW385,3768000
+2012,Irregular Expenditure,irregular,Ramotshere Moiloa,NW385,376824000
+2012,Unauthorised Expenditure,unauthorised,Ramotshere Moiloa,NW385,38917282000
+2012,Fruitless and Wasteful Expenditure,fruitless,Naledi (NW),NW392,44925000
+2012,Irregular Expenditure,irregular,Naledi (NW),NW392,14359000
+2012,Unauthorised Expenditure,unauthorised,Naledi (NW),NW392,55844000
+2012,Fruitless and Wasteful Expenditure,fruitless,Mamusa,NW393,3298000
+2012,Irregular Expenditure,irregular,Mamusa,NW393,6381000
+2012,Unauthorised Expenditure,unauthorised,Mamusa,NW393,29861000
+2012,Fruitless and Wasteful Expenditure,fruitless,Greater Taung,NW394,
+2012,Irregular Expenditure,irregular,Greater Taung,NW394,905000
+2012,Unauthorised Expenditure,unauthorised,Greater Taung,NW394,
+2012,Fruitless and Wasteful Expenditure,fruitless,Lekwa-Teemane,NW396,4282000
+2012,Irregular Expenditure,irregular,Lekwa-Teemane,NW396,
+2012,Unauthorised Expenditure,unauthorised,Lekwa-Teemane,NW396,61311000
+2012,Fruitless and Wasteful Expenditure,fruitless,Kagisano-Molopo,NW397,
+2012,Irregular Expenditure,irregular,Kagisano-Molopo,NW397,
+2012,Unauthorised Expenditure,unauthorised,Kagisano-Molopo,NW397,
+2012,Fruitless and Wasteful Expenditure,fruitless,Ventersdorp,NW401,9757000
+2012,Irregular Expenditure,irregular,Ventersdorp,NW401,35924000
+2012,Unauthorised Expenditure,unauthorised,Ventersdorp,NW401,11629000
+2012,Fruitless and Wasteful Expenditure,fruitless,Tlokwe City Council,NW402,4264000
+2012,Irregular Expenditure,irregular,Tlokwe City Council,NW402,315546000
+2012,Unauthorised Expenditure,unauthorised,Tlokwe City Council,NW402,235935000
+2012,Fruitless and Wasteful Expenditure,fruitless,City of Matlosana,NW403,15408000
+2012,Irregular Expenditure,irregular,City of Matlosana,NW403,33898000
+2012,Unauthorised Expenditure,unauthorised,City of Matlosana,NW403,481003000
+2012,Fruitless and Wasteful Expenditure,fruitless,Maquassi Hills,NW404,8913000
+2012,Irregular Expenditure,irregular,Maquassi Hills,NW404,
+2012,Unauthorised Expenditure,unauthorised,Maquassi Hills,NW404,
+2012,Fruitless and Wasteful Expenditure,fruitless,City of Tshwane,TSH,15794000
+2012,Irregular Expenditure,irregular,City of Tshwane,TSH,260324000
+2012,Unauthorised Expenditure,unauthorised,City of Tshwane,TSH,488022000
+2012,Fruitless and Wasteful Expenditure,fruitless,Matzikama,WC011,0
+2012,Irregular Expenditure,irregular,Matzikama,WC011,39136000
+2012,Unauthorised Expenditure,unauthorised,Matzikama,WC011,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Cederberg,WC012,0
+2012,Irregular Expenditure,irregular,Cederberg,WC012,91000
+2012,Unauthorised Expenditure,unauthorised,Cederberg,WC012,55116000
+2012,Fruitless and Wasteful Expenditure,fruitless,Bergrivier,WC013,0
+2012,Irregular Expenditure,irregular,Bergrivier,WC013,1495000
+2012,Unauthorised Expenditure,unauthorised,Bergrivier,WC013,27603000
+2012,Fruitless and Wasteful Expenditure,fruitless,Saldanha Bay,WC014,2577000
+2012,Irregular Expenditure,irregular,Saldanha Bay,WC014,1032000
+2012,Unauthorised Expenditure,unauthorised,Saldanha Bay,WC014,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Swartland,WC015,0
+2012,Irregular Expenditure,irregular,Swartland,WC015,0
+2012,Unauthorised Expenditure,unauthorised,Swartland,WC015,8263000
+2012,Fruitless and Wasteful Expenditure,fruitless,Witzenberg,WC022,0
+2012,Irregular Expenditure,irregular,Witzenberg,WC022,0
+2012,Unauthorised Expenditure,unauthorised,Witzenberg,WC022,13723000
+2012,Fruitless and Wasteful Expenditure,fruitless,Drakenstein,WC023,0
+2012,Irregular Expenditure,irregular,Drakenstein,WC023,64000
+2012,Unauthorised Expenditure,unauthorised,Drakenstein,WC023,48638000
+2012,Fruitless and Wasteful Expenditure,fruitless,Stellenbosch,WC024,29000
+2012,Irregular Expenditure,irregular,Stellenbosch,WC024,50000
+2012,Unauthorised Expenditure,unauthorised,Stellenbosch,WC024,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Breede Valley,WC025,0
+2012,Irregular Expenditure,irregular,Breede Valley,WC025,3868000
+2012,Unauthorised Expenditure,unauthorised,Breede Valley,WC025,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Langeberg,WC026,0
+2012,Irregular Expenditure,irregular,Langeberg,WC026,0
+2012,Unauthorised Expenditure,unauthorised,Langeberg,WC026,2436000
+2012,Fruitless and Wasteful Expenditure,fruitless,Theewaterskloof,WC031,0
+2012,Irregular Expenditure,irregular,Theewaterskloof,WC031,5331000
+2012,Unauthorised Expenditure,unauthorised,Theewaterskloof,WC031,71159000
+2012,Fruitless and Wasteful Expenditure,fruitless,Overstrand,WC032,104000
+2012,Irregular Expenditure,irregular,Overstrand,WC032,133000
+2012,Unauthorised Expenditure,unauthorised,Overstrand,WC032,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Cape Agulhas,WC033,0
+2012,Irregular Expenditure,irregular,Cape Agulhas,WC033,2037000
+2012,Unauthorised Expenditure,unauthorised,Cape Agulhas,WC033,10367000
+2012,Fruitless and Wasteful Expenditure,fruitless,Swellendam,WC034,466000
+2012,Irregular Expenditure,irregular,Swellendam,WC034,4359000
+2012,Unauthorised Expenditure,unauthorised,Swellendam,WC034,10608000
+2012,Fruitless and Wasteful Expenditure,fruitless,Kannaland,WC041,853000
+2012,Irregular Expenditure,irregular,Kannaland,WC041,2066000
+2012,Unauthorised Expenditure,unauthorised,Kannaland,WC041,17045000
+2012,Fruitless and Wasteful Expenditure,fruitless,Hessequa,WC042,517000
+2012,Irregular Expenditure,irregular,Hessequa,WC042,53000
+2012,Unauthorised Expenditure,unauthorised,Hessequa,WC042,0
+2012,Fruitless and Wasteful Expenditure,fruitless,Mossel Bay,WC043,0
+2012,Irregular Expenditure,irregular,Mossel Bay,WC043,0
+2012,Unauthorised Expenditure,unauthorised,Mossel Bay,WC043,464388000
+2012,Fruitless and Wasteful Expenditure,fruitless,George,WC044,11000
+2012,Irregular Expenditure,irregular,George,WC044,37725000
+2012,Unauthorised Expenditure,unauthorised,George,WC044,31895000
+2012,Fruitless and Wasteful Expenditure,fruitless,Oudtshoorn,WC045,318000
+2012,Irregular Expenditure,irregular,Oudtshoorn,WC045,6280000
+2012,Unauthorised Expenditure,unauthorised,Oudtshoorn,WC045,7494000
+2012,Fruitless and Wasteful Expenditure,fruitless,Bitou,WC047,4480000
+2012,Irregular Expenditure,irregular,Bitou,WC047,5163000
+2012,Unauthorised Expenditure,unauthorised,Bitou,WC047,78876000
+2012,Fruitless and Wasteful Expenditure,fruitless,Knysna,WC048,314000
+2012,Irregular Expenditure,irregular,Knysna,WC048,496000
+2012,Unauthorised Expenditure,unauthorised,Knysna,WC048,246738000
+2012,Fruitless and Wasteful Expenditure,fruitless,Laingsburg,WC051,26000
+2012,Irregular Expenditure,irregular,Laingsburg,WC051,8452000
+2012,Unauthorised Expenditure,unauthorised,Laingsburg,WC051,5286000
+2012,Fruitless and Wasteful Expenditure,fruitless,Prince Albert,WC052,341000
+2012,Irregular Expenditure,irregular,Prince Albert,WC052,1845000
+2012,Unauthorised Expenditure,unauthorised,Prince Albert,WC052,1438000
+2012,Fruitless and Wasteful Expenditure,fruitless,Beaufort West,WC053,0
+2012,Irregular Expenditure,irregular,Beaufort West,WC053,16000
+2012,Unauthorised Expenditure,unauthorised,Beaufort West,WC053,15899000

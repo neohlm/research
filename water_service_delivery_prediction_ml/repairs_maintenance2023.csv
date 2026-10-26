@@ -1,0 +1,520 @@
+amount_type.label,amount_type.code,financial_period.period,period_length.length,financial_year_end.year,item.composition,item.return_form_structure,item.position_in_return_form,item.label,item.code,demarcation.label,demarcation.code,amount.sum
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Buffalo City,BUF,12330716
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Buffalo City,BUF,412519426
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Buffalo City,BUF,20458114
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Cape Town,CPT,233851838
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Cape Town,CPT,1530383360
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Cape Town,CPT,27766843
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,West Coast,DC1,7877081
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,West Coast,DC1,7928378
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,West Coast,DC1,253971
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Sarah Baartman,DC10,221284
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Amathole,DC12,24887731
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Amathole,DC12,-9751
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Chris Hani,DC13,66716935
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Joe Gqabi,DC14,4410496
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Joe Gqabi,DC14,19005194
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,O R Tambo,DC15,85281694
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,O R Tambo,DC15,1791550
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Xhariep,DC16,147245
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Lejweleputswa,DC18,1947294
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Cape Winelands DM,DC2,1757899
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Cape Winelands DM,DC2,109253
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Cape Winelands DM,DC2,6952175
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Cape Winelands DM,DC2,979662
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Fezile Dabi,DC20,65090
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Fezile Dabi,DC20,3831120
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Ugu,DC21,615068
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Ugu,DC21,100180343
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Ugu,DC21,2118668
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,uMgungundlovu,DC22,2520827
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,uMgungundlovu,DC22,19924735
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Uthukela,DC23,62556499
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Umzinyathi,DC24,36131382
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Umzinyathi,DC24,109464432
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Umzinyathi,DC24,16718075
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Amajuba,DC25,2750448
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Zululand,DC26,5620845
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Zululand,DC26,126774785
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Zululand,DC26,5601631
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Umkhanyakude,DC27,26142026
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Umkhanyakude,DC27,3334103
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,King Cetshwayo,DC28,55862463
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,King Cetshwayo,DC28,4242786
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,King Cetshwayo,DC28,95340021
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,King Cetshwayo,DC28,1480994
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,iLembe,DC29,10277029
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,iLembe,DC29,101025068
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,iLembe,DC29,8132768
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Overberg,DC3,562887
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Overberg,DC3,8682739
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Overberg,DC3,164828
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Gert Sibande,DC30,17082805
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Gert Sibande,DC30,5334276
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Nkangala,DC31,16735036
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Nkangala,DC31,5489603
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Ehlanzeni,DC32,2512707
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Ehlanzeni,DC32,12166687
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Mopani,DC33,41873308
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Mopani,DC33,17756713
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Mopani,DC33,3099786
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Vhembe,DC34,91271160
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Capricorn,DC35,20219589
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Ngaka Modiri Molema,DC38,300414391
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Ngaka Modiri Molema,DC38,227314018
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Garden Route,DC4,2559488
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Dr Kenneth Kaunda,DC40,3037717
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Sedibeng,DC42,1688083
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Sedibeng,DC42,478349
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Harry Gwala,DC43,3055050
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Harry Gwala,DC43,49412463
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Alfred Nzo,DC44,71469020
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Sekhukhune,DC47,23099828
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Sekhukhune,DC47,22877025
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Sekhukhune,DC47,143477
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,West Rand,DC48,1188804
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,West Rand,DC48,15600
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Central Karoo,DC5,1176899
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Central Karoo,DC5,1096267
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Central Karoo,DC5,65724
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Namakwa,DC6,376
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Namakwa,DC6,336743
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Namakwa,DC6,5631
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Pixley Ka Seme (NC),DC7,502206
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Z F Mgcawu,DC8,659508
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Frances Baard,DC9,4523419
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Dr Beyers Naude,EC101,429
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Dr Beyers Naude,EC101,76056
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Dr Beyers Naude,EC101,21463910
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Makana,EC104,163191
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Makana,EC104,9744907
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Ndlambe,EC105,25375726
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Sundays River Valley,EC106,130488
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Sundays River Valley,EC106,3612017
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Sundays River Valley,EC106,340320
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Kouga,EC108,14807475
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Kouga,EC108,30921137
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Kouga,EC108,1943851
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Kou-Kamma,EC109,587793
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Kou-Kamma,EC109,2296051
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Mbhashe,EC121,35523
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Mbhashe,EC121,47159672
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Mbhashe,EC121,6989922
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Great Kei,EC123,90583
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Great Kei,EC123,94554
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Amahlathi,EC124,2807504
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Ngqushwa,EC126,3081072
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Ngqushwa,EC126,530590
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Raymond Mhlaba,EC129,5289467
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Inxuba Yethemba,EC131,15153764
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Inxuba Yethemba,EC131,-943904
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Vuyisile Mini,EC135,5285823
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Emalahleni (EC),EC136,101450
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Emalahleni (EC),EC136,3910625
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Emalahleni (EC),EC136,72000
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Dr. A.B. Xuma,EC137,110635
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Dr. A.B. Xuma,EC137,6742374
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Sakhisizwe,EC138,1564634
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Enoch Mgijima,EC139,2569876
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Enoch Mgijima,EC139,30783827
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Enoch Mgijima,EC139,48336540
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Elundini,EC141,8261413
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Senqu,EC142,4244781
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Senqu,EC142,7244122
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Senqu,EC142,129668
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Walter Sisulu,EC145,2890926
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Ngquza Hills,EC153,26159169
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Ngquza Hills,EC153,2502222
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Port St Johns,EC154,7451143
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Nyandeni,EC155,2700261
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Nyandeni,EC155,32425447
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Nyandeni,EC155,639038
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Kumkani Mhlontlo,EC156,5215622
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Kumkani Mhlontlo,EC156,9989689
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,King Sabata Dalindyebo,EC157,17283038
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,King Sabata Dalindyebo,EC157,65534020
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,King Sabata Dalindyebo,EC157,31982460
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Matatiele,EC441,14538059
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Matatiele,EC441,204635
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Umzimvubu,EC442,20112288
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Winnie Madikizela-Mandela,EC443,6817
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Winnie Madikizela-Mandela,EC443,11280247
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Ntabankulu,EC444,3248308
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,City of Ekurhuleni,EKU,1346168163
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,City of Ekurhuleni,EKU,1235323215
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,eThekwini,ETH,7067
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,eThekwini,ETH,1215028711
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,eThekwini,ETH,2239567307
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,eThekwini,ETH,75997184
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Letsemeng,FS161,2114606
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Masilonyana,FS181,25835
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Masilonyana,FS181,-407700
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Tokologo,FS182,1040170
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Tokologo,FS182,4944750
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Tswelopele,FS183,95132
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Tswelopele,FS183,15259978
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Matjhabeng,FS184,23132691
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Matjhabeng,FS184,15879286
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Matjhabeng,FS184,1227937
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Setsoto,FS191,2248401
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Setsoto,FS191,7718591
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Setsoto,FS191,114325
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Dihlabeng,FS192,2504640
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Dihlabeng,FS192,7345332
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Dihlabeng,FS192,935388
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Nketoana,FS193,3431989
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Maluti-a-Phofung,FS194,19206408
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Maluti-a-Phofung,FS194,30986541
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Phumelela,FS195,105490
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Phumelela,FS195,6132280
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Phumelela,FS195,783705
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Moqhaka,FS201,42845389
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Moqhaka,FS201,77400836
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Ngwathe,FS203,63953357
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Ngwathe,FS203,386741
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Metsimaholo,FS204,13549009
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Metsimaholo,FS204,12948592
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Metsimaholo,FS204,3115824
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Emfuleni,GT421,225807322
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Emfuleni,GT421,14785884
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Emfuleni,GT421,214070614
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Emfuleni,GT421,104129134
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Midvaal,GT422,86034589
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Midvaal,GT422,73470
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Midvaal,GT422,69792496
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Midvaal,GT422,7455305
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Lesedi,GT423,21218819
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Lesedi,GT423,14975556
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Lesedi,GT423,2397402
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Mogale City,GT481,571931
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Mogale City,GT481,76366205
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Mogale City,GT481,8446053
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Merafong City,GT484,61055
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Merafong City,GT484,22045185
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Merafong City,GT484,137113852
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Rand West City,GT485,44053684
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,City of Johannesburg,JHB,2931249
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,City of Johannesburg,JHB,26430835
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,City of Johannesburg,JHB,1415990072
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,City of Johannesburg,JHB,44498612
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Umdoni,KZN212,815943
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Umdoni,KZN212,70819635
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Umdoni,KZN212,26087
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Umzumbe,KZN213,35440023
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,uMuziwabantu,KZN214,14462594
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,uMuziwabantu,KZN214,86953
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Ray Nkonyeni,KZN216,57885078
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,uMshwathi,KZN221,158206
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,uMshwathi,KZN221,8947405
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,uMngeni,KZN222,340590
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,uMngeni,KZN222,28298731
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,uMngeni,KZN222,70503
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Mpofana,KZN223,15470245
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Mpofana,KZN223,1030367
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Impendle,KZN224,1477777
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Impendle,KZN224,681654
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Msunduzi,KZN225,47315092
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Msunduzi,KZN225,131399697
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Msunduzi,KZN225,925000
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Mkhambathini,KZN226,23338223
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Richmond,KZN227,5204567
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Richmond,KZN227,4202035
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Richmond,KZN227,3512158
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Okhahlamba,KZN235,8984941
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Inkosi Langalibalele,KZN237,1327944
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Inkosi Langalibalele,KZN237,21611058
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Alfred Duma,KZN238,13000417
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Alfred Duma,KZN238,19503780
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Alfred Duma,KZN238,39973749
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Alfred Duma,KZN238,818901
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Endumeni,KZN241,5628908
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Nquthu,KZN242,-229322
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Nquthu,KZN242,10999776
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Nquthu,KZN242,7224153
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Msinga,KZN244,24513665
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Umvoti,KZN245,13150384
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Umvoti,KZN245,153712
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Newcastle,KZN252,68976904
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Emadlangeni,KZN253,462700
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Emadlangeni,KZN253,491930
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Dannhauser,KZN254,29905955
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,eDumbe,KZN261,6338076
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,uPhongolo,KZN262,2277902
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Abaqulusi,KZN263,18962243
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Abaqulusi,KZN263,25157240
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Nongoma,KZN265,563611
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Nongoma,KZN265,22834300
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Nongoma,KZN265,1045747
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Ulundi,KZN266,2337381
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Ulundi,KZN266,6178132
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Ulundi,KZN266,200371
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Umhlabuyalingana,KZN271,22569003
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Jozini,KZN272,15739546
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Jozini,KZN272,175245
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Mtubatuba,KZN275,10800342
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Hlabisa Big Five,KZN276,4418530
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Hlabisa Big Five,KZN276,3078828
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Mfolozi,KZN281,12948261
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,uMhlathuze,KZN282,98705647
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,uMhlathuze,KZN282,144662979
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,uMhlathuze,KZN282,5960807
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,uMlalazi,KZN284,26261151
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,uMlalazi,KZN284,5310200
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,uMlalazi,KZN284,5389058
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Mthonjaneni,KZN285,4963021
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Mthonjaneni,KZN285,7991968
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Nkandla,KZN286,6098797
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Nkandla,KZN286,3661460
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Nkandla,KZN286,1568446
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Mandeni,KZN291,18676962
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,KwaDukuza,KZN292,7876485
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,KwaDukuza,KZN292,58632043
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Ndwedwe,KZN293,6328055
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Maphumulo,KZN294,9761
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Maphumulo,KZN294,4560314
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Maphumulo,KZN294,117614
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Greater Kokstad,KZN433,1000000
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Greater Kokstad,KZN433,22631452
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Johannes Phumani Phungula,KZN434,3038954
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Umzimkhulu,KZN435,19756872
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Dr Nkosazana Dlamini Zuma,KZN436,16354932
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Greater Giyani,LIM331,6127581
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Greater Giyani,LIM331,5490129
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Greater Letaba,LIM332,49136
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Greater Letaba,LIM332,21899923
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Greater Letaba,LIM332,5814
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Greater Tzaneen,LIM333,56758710
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Greater Tzaneen,LIM333,9106597
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Ba-Phalaborwa,LIM334,11767614
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Ba-Phalaborwa,LIM334,13739379
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Ba-Phalaborwa,LIM334,385600
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Maruleng,LIM335,22499
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Maruleng,LIM335,4241392
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Musina,LIM341,430347
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Musina,LIM341,6087529
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Thulamela,LIM343,8303436
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Thulamela,LIM343,115537228
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Makhado,LIM344,17206673
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Makhado,LIM344,15027023
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Makhado,LIM344,446848
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Collins Chabane,LIM345,998582
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Collins Chabane,LIM345,10838641
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Blouberg,LIM351,5640543
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Blouberg,LIM351,190914
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Molemole,LIM353,12946117
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Polokwane,LIM354,252770842
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Polokwane,LIM354,46456488
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Polokwane,LIM354,433680839
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Polokwane,LIM354,10493924
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Lepelle-Nkumpi,LIM355,580335
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Lepelle-Nkumpi,LIM355,7953195
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Thabazimbi,LIM361,1493082
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Thabazimbi,LIM361,19556908
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Thabazimbi,LIM361,6881572
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Lephalale,LIM362,6030888
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Lephalale,LIM362,4399863
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Lephalale,LIM362,2244498
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Bela Bela,LIM366,5703712
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Bela Bela,LIM366,1658324
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Bela Bela,LIM366,55925
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Mogalakwena,LIM367,1229455
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Mogalakwena,LIM367,28575906
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Ephraim Mogale,LIM471,14966808
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Ephraim Mogale,LIM471,666
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Elias Motsoaledi,LIM472,32520190
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Elias Motsoaledi,LIM472,4936785
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Makhuduthamaga,LIM473,35452813
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Tubatse Fetakgomo,LIM476,51405306
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Mangaung,MAN,398355965
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Mangaung,MAN,25710495
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Mangaung,MAN,138620839
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Mangaung,MAN,6258592
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Albert Luthuli,MP301,10120156
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Albert Luthuli,MP301,45235637
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Albert Luthuli,MP301,2907530
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Msukaligwa,MP302,26492703
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Msukaligwa,MP302,9698237
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Mkhondo,MP303,6005939
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Mkhondo,MP303,25683663
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Mkhondo,MP303,23688506
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Pixley Ka Seme (MP),MP304,24289304
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Lekwa,MP305,1152567
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Lekwa,MP305,42293061
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Lekwa,MP305,1264780
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Dipaleseng,MP306,18909048
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Govan Mbeki,MP307,14264843
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Govan Mbeki,MP307,59967597
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Govan Mbeki,MP307,584623
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Victor Khanye,MP311,50466983
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Emalahleni (MP),MP312,82715
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Emalahleni (MP),MP312,188282886
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Emalahleni (MP),MP312,516745
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Steve Tshwete,MP313,24027632
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Steve Tshwete,MP313,93819989
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Steve Tshwete,MP313,13960337
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Emakhazeni,MP314,8003023
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Emakhazeni,MP314,2160145
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Emakhazeni,MP314,2182466
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Thembisile Hani,MP315,311149
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Thembisile Hani,MP315,57508840
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Dr J.S. Moroka,MP316,65658171
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Dr J.S. Moroka,MP316,1781583
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Thaba Chweu,MP321,70932461
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Nkomazi,MP324,16543643
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Nkomazi,MP324,29213248
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Nkomazi,MP324,1056816
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Bushbuckridge,MP325,62484425
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Bushbuckridge,MP325,77791177
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,City of Mbombela,MP326,208632756
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,City of Mbombela,MP326,15933751
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,City of Mbombela,MP326,159067396
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,City of Mbombela,MP326,40391
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Richtersveld,NC061,3701503
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Nama Khoi,NC062,629237
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Nama Khoi,NC062,6517175
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Kamiesberg,NC064,225879
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Kamiesberg,NC064,398023
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Hantam,NC065,2927207
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Hantam,NC065,10113611
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Hantam,NC065,6556
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Karoo Hoogland,NC066,1211614
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Karoo Hoogland,NC066,10464
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Khai-Ma,NC067,1800
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Khai-Ma,NC067,755100
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Khai-Ma,NC067,92686
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Ubuntu,NC071,3509194
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Umsobomvu,NC072,3306093
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Renosterberg,NC075,1023920
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Renosterberg,NC075,348711
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Thembelihle,NC076,-77112
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Thembelihle,NC076,1448264
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Thembelihle,NC076,393685
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Siyathemba,NC077,23314
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Siyathemba,NC077,5968154
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Siyancuma,NC078,504340
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,!Kheis,NC084,58971
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,!Kheis,NC084,23828
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Tsantsabane,NC085,23520329
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Tsantsabane,NC085,13840148
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Tsantsabane,NC085,57953885
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Dawid Kruiper,NC087,3420000
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Dawid Kruiper,NC087,2819695
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Dawid Kruiper,NC087,361
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Sol Plaatje,NC091,146482961
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Sol Plaatje,NC091,154393460
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Sol Plaatje,NC091,6391039
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Sol Plaatje,NC091,5301978
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Dikgatlong,NC092,1363380
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Dikgatlong,NC092,4823348
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Magareng,NC093,4421934
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Phokwane,NC094,60878959
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Joe Morolong,NC451,5671793
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Joe Morolong,NC451,7246214
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Ga-Segonyana,NC452,31163140
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Ga-Segonyana,NC452,4286602
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Nelson Mandela Bay,NMA,7356
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Nelson Mandela Bay,NMA,64051507
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Nelson Mandela Bay,NMA,388379327
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Nelson Mandela Bay,NMA,190038
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Moretele,NW371,15799464
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Madibeng,NW372,127213466
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Madibeng,NW372,160412
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Rustenburg,NW373,57415653
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Moses Kotane,NW375,50655502
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Moses Kotane,NW375,-31305
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Tswaing,NW382,2984189
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Tswaing,NW382,6016936
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Tswaing,NW382,11397474
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Mafikeng,NW383,2050941
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Mafikeng,NW383,25278693
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Mafikeng,NW383,860259
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Ditsobotla,NW384,1345484
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Naledi (NW),NW392,297751
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Naledi (NW),NW392,5744490
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Greater Taung,NW394,29428221
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Greater Taung,NW394,67159
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Lekwa-Teemane,NW396,9918111
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Kagisano-Molopo,NW397,2261569
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Kagisano-Molopo,NW397,957029
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,City of Matlosana,NW403,116837972
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,City of Matlosana,NW403,20687561
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Maquassi Hills,NW404,18084235
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Maquassi Hills,NW404,2450626
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,J B Marks,NW405,47649781
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,J B Marks,NW405,96037600
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,J B Marks,NW405,711086
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,City of Tshwane,TSH,383402093
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,City of Tshwane,TSH,782978602
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,City of Tshwane,TSH,56193311
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Matzikama,WC011,6925031
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Matzikama,WC011,2144868
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Matzikama,WC011,504500
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Cederberg,WC012,16740376
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Cederberg,WC012,3819789
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Cederberg,WC012,5105476
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Cederberg,WC012,8198472
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Bergrivier,WC013,12109342
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Bergrivier,WC013,4321158
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Bergrivier,WC013,7252469
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Bergrivier,WC013,2995394
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Saldanha Bay,WC014,10799697
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Saldanha Bay,WC014,47292894
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Saldanha Bay,WC014,237049
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Swartland,WC015,20308332
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Swartland,WC015,2427358
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Swartland,WC015,37691986
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Swartland,WC015,4653815
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Witzenberg,WC022,574931
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Witzenberg,WC022,3063011
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Witzenberg,WC022,21094556
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Witzenberg,WC022,2306662
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Drakenstein,WC023,182915321
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Drakenstein,WC023,17807533
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Drakenstein,WC023,77555880
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Drakenstein,WC023,316215
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Stellenbosch,WC024,22903491
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Stellenbosch,WC024,62088827
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Breede Valley,WC025,16993667
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Breede Valley,WC025,56746589
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Breede Valley,WC025,3093369
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Langeberg,WC026,10244222
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Langeberg,WC026,19565243
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Theewaterskloof,WC031,65480158
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Theewaterskloof,WC031,9144909
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Theewaterskloof,WC031,26345290
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Theewaterskloof,WC031,28400965
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Cape Agulhas,WC033,51350035
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Cape Agulhas,WC033,9275711
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Cape Agulhas,WC033,12986851
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Cape Agulhas,WC033,9184062
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Swellendam,WC034,9742364
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Swellendam,WC034,5002242
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Swellendam,WC034,12140054
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Swellendam,WC034,551857
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Hessequa,WC042,71240035
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Hessequa,WC042,7653005
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Hessequa,WC042,14497021
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Hessequa,WC042,1379243
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Mossel Bay,WC043,54707474
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Mossel Bay,WC043,12390576
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Mossel Bay,WC043,47867433
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Mossel Bay,WC043,888736
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,George,WC044,29519254
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,George,WC044,191669839
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Oudtshoorn,WC045,21772379
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Oudtshoorn,WC045,706368
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Oudtshoorn,WC045,835331
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Bitou,WC047,5374502
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Bitou,WC047,29072116
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Bitou,WC047,5946594
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Knysna,WC048,57319175
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Knysna,WC048,77999
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Laingsburg,WC051,1915694
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Prince Albert,WC052,9382074
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Prince Albert,WC052,319056
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Prince Albert,WC052,4056208
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Prince Albert,WC052,6645260
+Audited Actual,AUDA,2023,year,2023,6001,line_item,1,Employee Related Costs,6001,Beaufort West,WC053,1861590
+Audited Actual,AUDA,2023,year,2023,6002,line_item,2,Inventory Consumed,6002,Beaufort West,WC053,37566
+Audited Actual,AUDA,2023,year,2023,6003,line_item,3,Contracted Services,6003,Beaufort West,WC053,1836913
+Audited Actual,AUDA,2023,year,2023,6004,line_item,4,Operational Costs,6004,Beaufort West,WC053,339747
