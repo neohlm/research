@@ -1,0 +1,29 @@
+{
+  "Logistic Regression": {
+    "mean_roc_auc": 0.7899087720895421,
+    "threshold_cv_balanced_accuracy": 0.6781274685070469,
+    "best_params": {
+      "model__C": 0.1,
+      "model__class_weight": null
+    }
+  },
+  "Decision Tree": {
+    "mean_roc_auc": 0.7973925196008105,
+    "threshold_cv_balanced_accuracy": 0.7387955764353719,
+    "best_params": {
+      "model__class_weight": "balanced",
+      "model__max_depth": 3,
+      "model__min_samples_leaf": 15
+    }
+  },
+  "Random Forest": {
+    "mean_roc_auc": 0.8396060132496724,
+    "threshold_cv_balanced_accuracy": 0.7565168586039164,
+    "best_params": {
+      "model__class_weight": "balanced",
+      "model__max_depth": null,
+      "model__max_features": "sqrt",
+      "model__min_samples_leaf": 8
+    }
+  }
+}
